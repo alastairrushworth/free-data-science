@@ -25,7 +25,7 @@ Free data science resources
   - [Natural language processing](#natural-language-processing)
   - [Machine learning](#machine-learning)
 
-🚧 **This page is a work in progress\!**
+🚧 This page is a work in progress\!
 
 # Overview
 
@@ -61,8 +61,8 @@ broken link, please file an issue or submit a pull request.
     Kim](https://moderndive.netlify.app/1-getting-started.html). The
     very first of first steps. Install R & RStudio and what to do after
     that.
-  - 📝 [**R Ladies Sydney: Basic
-    Basics**](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).
+  - 📝 [**Basic Basics** by R Ladies
+    Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).
     Tour of RStudio, installing and using packages and getting data into
     RStudio.
   - ▶️ [**A Gentle Introduction to Tidy Statistics in R** by Thomas
@@ -75,8 +75,8 @@ broken link, please file an issue or submit a pull request.
     interactive course for data manipulation, graphics, data reshaping,
     and statistical modelling.
   - 🎓 [**RStudio Primers** by
-    RStudio](https://rstudio.cloud/learn/primers/) Interactive tutorials
-    from RStudio covering data manipulation, visualisation and
+    RStudio](https://rstudio.cloud/learn/primers/). Interactive
+    tutorials from RStudio covering data manipulation, visualisation and
     programming with R.
 
 ## Advancing with R
@@ -95,9 +95,6 @@ broken link, please file an issue or submit a pull request.
     From Zero** by Greg Wilson](http://tidynomicon.tech/) An
     introduction to R for Python users.
   - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/)
-    <https://kbroman.org/pkg_primer/>
-      - 📚 [**Manuals** by
-        R-Core](https://cran.r-project.org/manuals.html)
   - 📝 [**R package primer: a minimal tutorial** by Karl
     Broman](https://kbroman.org/pkg_primer/)
   - ▶️ [**RStudio Webinars** by
@@ -108,27 +105,29 @@ broken link, please file an issue or submit a pull request.
 ## Getting started with Python
 
   - 📝 [**Install Python and Anaconda** by
-    Anaconda](https://docs.anaconda.com/anaconda/install/)
+    Anaconda](https://docs.anaconda.com/anaconda/install/).
   - 🎓 [**Free interactive introduction to Python and
-    pandas**](https://python-course.nixd.dk/)
+    pandas**](https://python-course.nixd.dk/).
   - 📝 [**Quick reference to Python in a single script and notebook** by
-    Kevin Markham](https://www.dataschool.io/python-quick-reference/)
+    Kevin Markham](https://www.dataschool.io/python-quick-reference/).
   - 📝 [**An Introduction to Python and Programming** by Alexander
-    Hess](https://github.com/webartifex/intro-to-python)
-  - 🎓 [**Learn Python** by Ron Reiter](https://www.learnpython.org/)
-  - 💡 [**Pandas Cheat
-    Sheet**](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+    Hess](https://github.com/webartifex/intro-to-python).
+  - 🎓 [**Learn Python** by Ron Reiter](https://www.learnpython.org/).
+  - 💡 [**Pandas Cheat Sheet** by the Pandas development
+    team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
   - 📝 [**10 minutes to pandas** by the Pandas development
     team](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 ## Advancing with Python
 
-  - 📚 [Python Data Science Handbook Jake
-    VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - 📚 [**Python Data Science Handbook** by Jake
+    VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/).
+  - 📚 [**Python for Everybody: Exploring Data Using Python 3** by
+    Charles R. Severance](https://www.py4e.com/book.php)
 
 ## Shell
 
-  - 🎓 [**Learn Shell** ny](https://www.learnshell.org/)
+  - 🎓 [**Learn Shell** by Ron Reiter](https://www.learnshell.org/).
   - 🎓 [**The Unix Shell** by Software
     Carpentry](http://swcarpentry.github.io/shell-novice/)
   - 📝 [**The Beginner’s Guide to Shell Scripting: The Basics** by Yatri
@@ -154,7 +153,7 @@ broken link, please file an issue or submit a pull request.
     François Michonneau](https://r-bio.github.io/intro-git-rstudio/)
   - 💡 [**Git Cheat Sheet** by
     GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-  - 📚[**Pro Git** by Scott Chacon and Ben
+  - 📚 [**Pro Git** by Scott Chacon and Ben
     Straub](https://git-scm.com/book/en/v2)
 
 ## Spark
@@ -164,17 +163,18 @@ broken link, please file an issue or submit a pull request.
 
 ## Javascript
 
-<https://www.learn-js.org/> + 📚 [**JavaScript for Data Science** by Maya
-Gans, Toby Hodges, and Greg Wilson](http://js4ds.org/)
+  - 🎓 [**Learn JS** by Ron Reiter](https://www.learn-js.org/)
+  - 📚 [**JavaScript for Data Science** by Maya Gans, Toby Hodges, and
+    Greg Wilson](http://js4ds.org/)
 
 ## SQL
 
   - 📚 / 🎓 [**The SQL Tutorial for Data Analysis** by
-    mode.com](https://mode.com/sql-tutorial/introduction-to-sql/)
+    mode.com](https://mode.com/sql-tutorial/introduction-to-sql/).
     Tutorials and interactive excercies teaching fundamentals of SQL.
   - 🎓 [**SQLBolt: Learn SQL with simple, interactive
-    exercises**](https://sqlbolt.com/)
-  - 📚 / 🎓 [**SQLZoo: SQL Tutorial**](https://sqlzoo.net/) Wikibook with
+    exercises**](https://sqlbolt.com/).
+  - 📚 / 🎓 [**SQLZoo: SQL Tutorial**](https://sqlzoo.net/). Wikibook with
     interactive exercises.
   - 🎓 [**Intro to SQL: Querying and managing data** by Khan
     Academy](https://www.khanacademy.org/computing/computer-programming/sql)
@@ -201,18 +201,18 @@ Gans, Toby Hodges, and Greg Wilson](http://js4ds.org/)
     Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
   - 📝 [**The Ethical Data Scientist** Cathy O’
     Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-      - 📝 [**Cookiecutter Data Science** by
-        drivendata](https://github.com/drivendata/cookiecutter-data-science)
+  - 📝 [**Cookiecutter Data Science** by
+    drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
 # Developing interactive applications
 
-  - ⏯ / 🎓 [**Learn Shiny** by
+  - ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/) +📚
     [**Dashboards** by Yihui Xie, J. J. Allaire, Garrett
-    Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html)
-    Chapter 5 from ‘*R Markdown: The Definitive Guide*’.
+    Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).
+    Chapter 5 from ‘R Markdown: The Definitive Guide’.
   - 📝 [**Leaflet for R** by RStudio](https://rstudio.github.io/leaflet/)
   - 📝 [**Dash User Guide** by Plotly](https://dash.plotly.com)
 
@@ -242,6 +242,12 @@ Gans, Toby Hodges, and Greg Wilson](http://js4ds.org/)
   - 📚 [**Learning statistics with R: A tutorial for psychology students
     and other beginners** Danielle
     Navarro](https://learningstatisticswithr.com/book/)
+  - 📚 [**Probabilistic Programming & Bayesian Methods for Hackers** by
+    Cameron
+    Davidson-Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+  - 📚 [**From Algorithms to Z-Scores: Probabilistic and Statistical
+    Modeling in Computer Science** by Norm
+    Matloff](http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf)
 
 # R community groups
 
@@ -269,13 +275,13 @@ Gans, Toby Hodges, and Greg Wilson](http://js4ds.org/)
     the Natural Language Toolkit** by Steven Bird, Ewan Klein, and
     Edward Loper.](http://www.nltk.org/book/)
   - 🎓 [**A Code-First Intro to Natural Language Processing** by
-    fast.ai](https://github.com/fastai/course-nlp) The course is taught
+    fast.ai](https://github.com/fastai/course-nlp). The course is taught
     in Python with Jupyter Notebooks, using libraries such as sklearn,
     nltk, pytorch, and fastai.
 
 # Machine learning
 
-  - 📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
+  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
