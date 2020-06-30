@@ -3,7 +3,7 @@ title: "Free data science resources"
 output:
   github_document:
     toc: true
-    toc_depth: 2
+    toc_depth: 1
 ---
   
 `r emo::ji('construction')`  This page is a work in progress!
@@ -44,9 +44,9 @@ __Key to resource types__
 
 + `r emo::ji('books')` [__Hands-on Programming with R__ by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 + `r emo::ji('books')` [__R Cookbook, 2nd Edition__ by James (JD) Long, Paul Teetor](https://rc2e.com/) 
-+ `r emo::ji('books')` [__R Packages__ by Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/) Learn how R packages work and write your own.
-+ `r emo::ji('books')` [__Efficient R programming__ by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/) Comprehensive introduction to writing faster and more efficient R code.
-+ `r emo::ji('books')` [__Tidynomicon - A Brief Introduction to R for People Who Count From Zero__ by Greg Wilson](http://tidynomicon.tech/) An introduction to R for Python users.
++ `r emo::ji('books')` [__R Packages__ by Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/).  Learn how R packages work and write your own.
++ `r emo::ji('books')` [__Efficient R programming__ by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/).  Comprehensive introduction to writing faster and more efficient R code.
++ `r emo::ji('books')` [__Tidynomicon - A Brief Introduction to R for People Who Count From Zero__ by Greg Wilson](http://tidynomicon.tech/).  An introduction to R for Python users.
 + `r emo::ji('books')` [__Advanced R__ by Hadley Wickham](https://adv-r.hadley.nz/)
 + `r emo::ji('memo')` [__R package primer: a minimal tutorial__ by Karl Broman](https://kbroman.org/pkg_primer/)
 + `r emo::ji('play button')` [__RStudio Webinars__ by RStudio](https://rstudio.com/resources/webinars/)
@@ -79,8 +79,10 @@ __Key to resource types__
 
 ## Regular expressions
 
++ `r emo::ji('college')` [__RegexOne: Learn Regular Expressions with simple, interactive exercises.__ by RegexOne](https://regexone.com/)
 + `r emo::ji('memo')` [__Regular Expressions 101: Online Regular Expression Tester and Debugger__ by Firas Dib](https://regex101.com/)
 + `r emo::ji('bulb')` [__Data Science Cheat Sheet: Python Regular Expressions__ by Dataquest](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf)
++ `r emo::ji('bulb')`[__Regular Expressions Cheat Sheet__ by Dave Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
 
 ## Git 
 
@@ -92,6 +94,9 @@ __Key to resource types__
 ## Spark 
 
 + `r emo::ji('bulb')` [__PySpark Cheat Sheet__ by Kevin Schaich](https://github.com/kevinschaich/pyspark-cheatsheet)
++ `r emo::ji('college')` [__Mastering Spark with R__ by Javier Luraschi, Kevin Kuo and Edgar Ruiz](https://therinspark.com/)
++ `r emo::ji('play button')` [__R & Spark: How to Analyze Data Using RStudio's Sparklyr__ by Nathan Stephens](https://www.youtube.com/watch?v=oItFZfzqqMY)
++ `r emo::ji('books')`[__A Gentle Introduction to Spark__ by DataBricks](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/book/databricks/spark-intro.pdf)
 
 ## Javascript
 
@@ -107,17 +112,20 @@ __Key to resource types__
 + `r emo::ji('college')` [__LearnSQLOnline__ by Ron Reiter](https://www.learnsqlonline.org/)
 
 
-# Data Science practise
+# Data Science Software Development
 
 + `r emo::ji('memo')` [__Software development skills for data scientists__ by Trey Causey](http://treycausey.com/software_dev_skills.html)
 + `r emo::ji('scroll')` [__Hidden Technical Debt in Machine Learning Systems__](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 + `r emo::ji('memo')` [__How rOpenSci uses Code Review to Promote Reproducible Science__ by Noam Ross, Scott Chamberlain, Karthik Ram and Maëlle Salmon](https://ropensci.org/blog/2017/09/01/nf-softwarereview/)
 +  `r emo::ji('scroll')`  [__Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research__ by Victoria Stodden and Sheila Miguez](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
-+ `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
 + `r emo::ji('memo')` [__Journalism as a Professional Model for Data Science__ by Brian C. Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
-+ `r emo::ji('memo')` [__The Ethical Data Scientist__ Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 + `r emo::ji('memo')` [__Cookiecutter Data Science__ by drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
+# Data Science Ethics
+
++ `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
++ `r emo::ji('memo')` [__The Ethical Data Scientist__ Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
++ `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
 
 
 # Developing interactive applications
@@ -149,8 +157,10 @@ __Key to resource types__
 +  `r emo::ji('books')` [__Probabilistic Programming & Bayesian Methods for Hackers__ by Cameron Davidson-Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + `r emo::ji('books')` [__From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science__ by Norm Matloff](http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf)
 
-# R community groups
+# Data Science community groups
 
++ `r emo::ji('users')` [__PyData Meetup Groups__](https://www.meetup.com/pro/pydata/)
++ `r emo::ji('users')` [__PyLadies__ by PyLadies](https://www.pyladies.com/)
 + `r emo::ji('users')` [__Directory of R User Groups__ by Jumping Rivers](https://jumpingrivers.github.io/meetingsR/r-user-groups.html)
 + `r emo::ji('users')` [__Complete list of R-Ladies groups__ by R-Ladies Global](https://benubah.github.io/r-community-explorer/rladies.html)
 + `r emo::ji('users')` [__Tidy Tuesday__ A weekly podcast and community activity brought to you by the R4DS Online Learning Community](https://www.tidytuesday.com/)

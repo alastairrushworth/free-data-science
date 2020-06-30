@@ -3,17 +3,9 @@ Free data science resources
 
   - [Overview](#overview)
   - [Software & Programming](#software-programming)
-      - [Getting started with R](#getting-started-with-r)
-      - [Advancing with R](#advancing-with-r)
-      - [Getting started with Python](#getting-started-with-python)
-      - [Advancing with Python](#advancing-with-python)
-      - [Shell](#shell)
-      - [Regular expressions](#regular-expressions)
-      - [Git](#git)
-      - [Spark](#spark)
-      - [Javascript](#javascript)
-      - [SQL](#sql)
-  - [Data Science practise](#data-science-practise)
+  - [Data Science Software
+    Development](#data-science-software-development)
+  - [Data Science Ethics](#data-science-ethics)
   - [Developing interactive
     applications](#developing-interactive-applications)
   - [GIS and Spatial Data Science](#gis-and-spatial-data-science)
@@ -21,7 +13,7 @@ Free data science resources
   - [Generalised Additive Modelling
     (GAMs)](#generalised-additive-modelling-gams)
   - [Statistics](#statistics)
-  - [R community groups](#r-community-groups)
+  - [Data Science community groups](#data-science-community-groups)
   - [Natural language processing](#natural-language-processing)
   - [Machine learning](#machine-learning)
 
@@ -86,13 +78,13 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**R Cookbook, 2nd Edition** by James (JD) Long, Paul
     Teetor](https://rc2e.com/)
   - 📚 [**R Packages** by Hadley Wickham and Jennifer
-    Bryan](https://r-pkgs.org/) Learn how R packages work and write your
-    own.
+    Bryan](https://r-pkgs.org/). Learn how R packages work and write
+    your own.
   - 📚 [**Efficient R programming** by Colin Gillespie and Robin
-    Lovelace](https://csgillespie.github.io/efficientR/) Comprehensive
+    Lovelace](https://csgillespie.github.io/efficientR/). Comprehensive
     introduction to writing faster and more efficient R code.
   - 📚 [**Tidynomicon - A Brief Introduction to R for People Who Count
-    From Zero** by Greg Wilson](http://tidynomicon.tech/) An
+    From Zero** by Greg Wilson](http://tidynomicon.tech/). An
     introduction to R for Python users.
   - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/)
   - 📝 [**R package primer: a minimal tutorial** by Karl
@@ -139,10 +131,14 @@ broken link, please file an issue or submit a pull request.
 
 ## Regular expressions
 
+  - 🎓 [**RegexOne: Learn Regular Expressions with simple, interactive
+    exercises.** by RegexOne](https://regexone.com/)
   - 📝 [**Regular Expressions 101: Online Regular Expression Tester and
     Debugger** by Firas Dib](https://regex101.com/)
   - 💡 [**Data Science Cheat Sheet: Python Regular Expressions** by
     Dataquest](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf)
+  - 💡[**Regular Expressions Cheat Sheet** by Dave
+    Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
 
 ## Git
 
@@ -160,6 +156,12 @@ broken link, please file an issue or submit a pull request.
 
   - 💡 [**PySpark Cheat Sheet** by Kevin
     Schaich](https://github.com/kevinschaich/pyspark-cheatsheet)
+  - 🎓 [**Mastering Spark with R** by Javier Luraschi, Kevin Kuo and
+    Edgar Ruiz](https://therinspark.com/)
+  - ▶️ [**R & Spark: How to Analyze Data Using RStudio’s Sparklyr** by
+    Nathan Stephens](https://www.youtube.com/watch?v=oItFZfzqqMY)
+  - 📚[**A Gentle Introduction to Spark** by
+    DataBricks](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/book/databricks/spark-intro.pdf)
 
 ## Javascript
 
@@ -181,7 +183,7 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**LearnSQLOnline** by Ron
     Reiter](https://www.learnsqlonline.org/)
 
-# Data Science practise
+# Data Science Software Development
 
   - 📝 [**Software development skills for data scientists** by Trey
     Causey](http://treycausey.com/software_dev_skills.html)
@@ -194,19 +196,24 @@ broken link, please file an issue or submit a pull request.
     Infrastructure and Environments for Reproducible and Extensible
     Research** by Victoria Stodden and Sheila
     Miguez](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
-  - 📝 [**A Code of Ethics for Data Science** by DJ
-    Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
   - 📝 [**Journalism as a Professional Model for Data Science** by Brian
     C.
     Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
-  - 📝 [**The Ethical Data Scientist** Cathy O’
-    Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
   - 📝 [**Cookiecutter Data Science** by
     drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
+# Data Science Ethics
+
+  - 📝 [**A Code of Ethics for Data Science** by DJ
+    Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+  - 📝 [**The Ethical Data Scientist** Cathy O’
+    Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
+  - 📝 [**An ethics checklist for data scientists** by
+    drivendata](https://deon.drivendata.org/)
+
 # Developing interactive applications
 
-  - ▶️ / 🎓 [**Learn Shiny** by
+  - ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/) +📚
@@ -249,8 +256,10 @@ broken link, please file an issue or submit a pull request.
     Modeling in Computer Science** by Norm
     Matloff](http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf)
 
-# R community groups
+# Data Science community groups
 
+  - 👥 [**PyData Meetup Groups**](https://www.meetup.com/pro/pydata/)
+  - 👥 [**PyLadies** by PyLadies](https://www.pyladies.com/)
   - 👥 [**Directory of R User Groups** by Jumping
     Rivers](https://jumpingrivers.github.io/meetingsR/r-user-groups.html)
   - 👥 [**Complete list of R-Ladies groups** by R-Ladies
