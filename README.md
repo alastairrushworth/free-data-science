@@ -63,32 +63,38 @@ broken link, please file an issue or submit a pull request.
     Webinar covering exploratory data analysis, tidyverse, statistical
     testing and plotting.  
   - 🎓 [**The R Bootcamp** by Ted Laderas and Jessica
-    Minnier](https://r-bootcamp.netlify.app/). A tidyverse centric
+    Minnier](https://r-bootcamp.netlify.app/). A tidyverse-centric
     interactive course for data manipulation, graphics, data reshaping,
     and statistical modelling.
   - 🎓 [**RStudio Primers** by
     RStudio](https://rstudio.cloud/learn/primers/). Interactive
     tutorials from RStudio covering data manipulation, visualisation and
     programming with R.
+  - 💡 [**Base R Cheat Sheet** by Mhairi
+    McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
+    Quick overview of basic R functionality.
 
 ## Advancing with R
 
-  - 📚 [**Hands-on Programming with R** by Garrett
-    Grolemund](https://rstudio-education.github.io/hopr/)
-  - 📚 [**R Cookbook, 2nd Edition** by James (JD) Long, Paul
-    Teetor](https://rc2e.com/)
-  - 📚 [**R Packages** by Hadley Wickham and Jennifer
-    Bryan](https://r-pkgs.org/). Learn how R packages work and write
-    your own.
-  - 📚 [**Efficient R programming** by Colin Gillespie and Robin
-    Lovelace](https://csgillespie.github.io/efficientR/). Comprehensive
-    introduction to writing faster and more efficient R code.
   - 📚 [**Tidynomicon - A Brief Introduction to R for People Who Count
     From Zero** by Greg Wilson](http://tidynomicon.tech/). An
     introduction to R for Python users.
-  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/)
+  - 📚 [**Hands-on Programming with R** by Garrett
+    Grolemund](https://rstudio-education.github.io/hopr/). A friendly
+    introduction to the R language for non-programmers.
+  - 📚 [**R Cookbook: Proven Recipes for Data Analysis, Statistics, and
+    Graphics** by James (JD) Long, Paul Teetor](https://rc2e.com/).
+    Recipes and worked examples for performing core tasks in R.
   - 📝 [**R package primer: a minimal tutorial** by Karl
-    Broman](https://kbroman.org/pkg_primer/)
+    Broman](https://kbroman.org/pkg_primer/). Overview of R packages
+    development.
+  - 📚 [**R Packages** by Hadley Wickham and Jennifer
+    Bryan](https://r-pkgs.org/). Comprehensive guide to how R packages
+    work and how to write your own.
+  - 📚 [**Efficient R programming** by Colin Gillespie and Robin
+    Lovelace](https://csgillespie.github.io/efficientR/). Comprehensive
+    introduction to writing faster and more efficient R code.
+  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/)
   - ▶️ [**RStudio Webinars** by
     RStudio](https://rstudio.com/resources/webinars/)
   - 📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the R
@@ -216,8 +222,8 @@ broken link, please file an issue or submit a pull request.
   - ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
-    Minnier](https://laderast.github.io/gradual_shiny/) +📚
-    [**Dashboards** by Yihui Xie, J. J. Allaire, Garrett
+    Minnier](https://laderast.github.io/gradual_shiny/)
+  - 📚 [**Dashboards** by Yihui Xie, J. J. Allaire, Garrett
     Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).
     Chapter 5 from ‘R Markdown: The Definitive Guide’.
   - 📝 [**Leaflet for R** by RStudio](https://rstudio.github.io/leaflet/)
@@ -246,6 +252,11 @@ broken link, please file an issue or submit a pull request.
 
 # Statistics
 
+  - 📚 [**Statistical Inference via Data Science: A Modern Dive into R
+    and the tidyverse** by Chester Ismay and Albert Y.
+    Kim](https://moderndive.com/)
+  - 📚 [**Think Stats Exploratory Data Analysis in Python** by Allen B.
+    Downey](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
   - 📚 [**Learning statistics with R: A tutorial for psychology students
     and other beginners** Danielle
     Navarro](https://learningstatisticswithr.com/book/)
@@ -255,6 +266,10 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**From Algorithms to Z-Scores: Probabilistic and Statistical
     Modeling in Computer Science** by Norm
     Matloff](http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf)
+  - 📚 [**Theory of Statistics** by James E.
+    Gentle](http://mason.gmu.edu/~jgentle/books/MathStat.pdf)
+  - 📚 [**Core Statistics** by Simon
+    Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
 
 # Data Science community groups
 
