@@ -133,7 +133,7 @@ __Key to resource types__
 
 + `r emo::ji('play')` / `r emo::ji('college')` [__Learn Shiny__ by RStudio](https://shiny.rstudio.com/tutorial/)
 + `r emo::ji('books')` [__A gRadual intRoduction to Shiny__ by Ted Laderas and Jessica Minnier](https://laderast.github.io/gradual_shiny/)
-+`r emo::ji('books')` [__Dashboards__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).  Chapter 5 from 'R Markdown: The Definitive Guide'.
++ `r emo::ji('books')` [__Dashboards__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).  Chapter 5 from 'R Markdown: The Definitive Guide'.
 + `r emo::ji('memo')` [__Leaflet for R__ by RStudio](https://rstudio.github.io/leaflet/)
 + `r emo::ji('memo')` [__Dash User Guide__ by Plotly](https://dash.plotly.com)
 
