@@ -92,6 +92,9 @@ __Key to resource types__
 + `r emo::ji('bulb')` [__Git Cheat Sheet__ by GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 + `r emo::ji('books')` [__Pro Git__ by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
+Happy Git and GitHub for the useR
+Jenny Bryan, the STAT 545 TAs, Jim Hester https://happygitwithr.com/
+
 ## Spark 
 
 + `r emo::ji('bulb')` [__PySpark Cheat Sheet__ by Kevin Schaich](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -153,7 +156,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Resources for Learning About and Using GAMs in R__ by Noam Ross](https://github.com/noamross/gam-resources)
 
 # Statistics
-
+https://glennwilliams.me/ioc_quickstats/ioc_quickstats.html
 + `r emo::ji('books')` [__Statistical Inference via Data Science: A Modern Dive into R and the tidyverse__ by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
 + `r emo::ji('books')` [__Think Stats Exploratory Data Analysis in Python__ by Allen B. Downey](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 + `r emo::ji('books')` [__Learning statistics with R: A tutorial for psychology students and other beginners__ Danielle Navarro](https://learningstatisticswithr.com/book/)
@@ -183,6 +186,7 @@ __Key to resource types__
 
 
 # Machine learning
+https://mml-book.github.io/book/mml-book.pdf
 
   + `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   + `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
