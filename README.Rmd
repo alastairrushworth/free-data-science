@@ -38,6 +38,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Basic Basics__ by R Ladies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).  Tour of RStudio, installing and using packages and getting data into RStudio.
 + `r emo::ji('play button')` [__A Gentle Introduction to Tidy Statistics in R__ by Thomas Mock, RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).  Webinar covering exploratory data analysis, tidyverse, statistical testing and plotting.  
 + `r emo::ji('college')` [__The R Bootcamp__ by Ted Laderas and Jessica Minnier](https://r-bootcamp.netlify.app/).  A tidyverse-centric interactive course for data manipulation, graphics, data reshaping, and statistical modelling.
++ `r emo::ji('college')` [__Ready for R__ by Ted Laderas](https://ready4r.netlify.app/)
 + `r emo::ji('college')` [__RStudio Primers__ by RStudio](https://rstudio.cloud/learn/primers/).  Interactive tutorials from RStudio covering data manipulation, visualisation and programming with R.
 + `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  Quick overview of basic R functionality.
 
@@ -91,9 +92,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__An introduction to Git and how to use it with RStudio__ by François Michonneau](https://r-bio.github.io/intro-git-rstudio/)
 + `r emo::ji('bulb')` [__Git Cheat Sheet__ by GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 + `r emo::ji('books')` [__Pro Git__ by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
-
-Happy Git and GitHub for the useR
-Jenny Bryan, the STAT 545 TAs, Jim Hester https://happygitwithr.com/
++ `r emo::ji('books')` [__Happy Git and GitHub for the useR__ by Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/) 
 
 ## Spark 
 
@@ -156,7 +155,7 @@ Jenny Bryan, the STAT 545 TAs, Jim Hester https://happygitwithr.com/
 + `r emo::ji('memo')` [__Resources for Learning About and Using GAMs in R__ by Noam Ross](https://github.com/noamross/gam-resources)
 
 # Statistics
-https://glennwilliams.me/ioc_quickstats/ioc_quickstats.html
+
 + `r emo::ji('books')` [__Statistical Inference via Data Science: A Modern Dive into R and the tidyverse__ by Chester Ismay and Albert Y. Kim](https://moderndive.com/)
 + `r emo::ji('books')` [__Think Stats Exploratory Data Analysis in Python__ by Allen B. Downey](http://greenteapress.com/thinkstats2/thinkstats2.pdf)
 + `r emo::ji('books')` [__Learning statistics with R: A tutorial for psychology students and other beginners__ Danielle Navarro](https://learningstatisticswithr.com/book/)
@@ -183,20 +182,28 @@ https://glennwilliams.me/ioc_quickstats/ioc_quickstats.html
   +  `r emo::ji('college')` [__Stanford CS 124: From Languages to Information__ by Dan Jurafsky](http://web.stanford.edu/class/cs124/)
   + `r emo::ji('books')` [__Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit__ by Steven Bird, Ewan Klein, and Edward Loper.](http://www.nltk.org/book/)
   + `r emo::ji('college')`  [__A Code-First Intro to Natural Language Processing__ by fast.ai](https://github.com/fastai/course-nlp).  The course is taught in Python with Jupyter Notebooks, using libraries such as sklearn, nltk, pytorch, and fastai.
++ `r emo::ji('books')` [__Speech and Language Processing__ by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
++ `r emo::ji('play button')` [__BERT Research Series__ by  Chris McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+
+# Machine Learning
+
+## Theory
+
++ `r emo::ji('books')` [__Elements of Statistical Learning__ by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
++ `r emo::ji('books')` [__Computer Age Statistical Inference: Algorithms, Evidence and Data Science__ by Bradley Efron and Trevor Hastie (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
++ `r emo::ji('books')`[__Mathematics for Machine Learning__ by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
++ `r emo::ji('memo')` [Distill](https://distill.pub/)
++ `r emo::ji('books')` [__Mining of Massive Datasets__ by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
+
+## Practice
+
++ `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
++ `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
++ `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
++ `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
++ `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
++ `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 
-# Machine learning
-https://mml-book.github.io/book/mml-book.pdf
-
-  + `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
-  + `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
-  + `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
-  + `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
-  + `r emo::ji('books')` [__Mining of Massive Datasets__ by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
-  + `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
-  + `r emo::ji('memo')` [Distill](https://distill.pub/)
-  + `r emo::ji('books')` [__Elements of Statistical Learning__ by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
-  + `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-  + `r emo::ji('books')` [__Computer Age Statistical Inference: Algorithms, Evidence and Data Science__ by Bradley Efron and Trevor Hastie (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
 
 
