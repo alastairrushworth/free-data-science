@@ -15,7 +15,7 @@ Free data science resources
   - [Statistics](#statistics)
   - [Data Science community groups](#data-science-community-groups)
   - [Natural language processing](#natural-language-processing)
-  - [Machine learning](#machine-learning)
+  - [Machine Learning](#machine-learning)
 
 🚧 This page is a work in progress\!
 
@@ -66,6 +66,7 @@ broken link, please file an issue or submit a pull request.
     Minnier](https://r-bootcamp.netlify.app/). A tidyverse-centric
     interactive course for data manipulation, graphics, data reshaping,
     and statistical modelling.
+  - 🎓 [**Ready for R** by Ted Laderas](https://ready4r.netlify.app/)
   - 🎓 [**RStudio Primers** by
     RStudio](https://rstudio.cloud/learn/primers/). Interactive
     tutorials from RStudio covering data manipulation, visualisation and
@@ -157,6 +158,8 @@ broken link, please file an issue or submit a pull request.
     GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
   - 📚 [**Pro Git** by Scott Chacon and Ben
     Straub](https://git-scm.com/book/en/v2)
+  - 📚 [**Happy Git and GitHub for the useR** by Jenny Bryan, the STAT
+    545 TAs, Jim Hester](https://happygitwithr.com/)
 
 ## Spark
 
@@ -302,29 +305,41 @@ broken link, please file an issue or submit a pull request.
     fast.ai](https://github.com/fastai/course-nlp). The course is taught
     in Python with Jupyter Notebooks, using libraries such as sklearn,
     nltk, pytorch, and fastai.
+  - 📚 [**Speech and Language Processing** by Dan Jurafsky and James H.
+    Martin](https://web.stanford.edu/~jurafsky/slp3/)
+  - ▶️ [**BERT Research Series** by Chris
+    McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
-# Machine learning
+# Machine Learning
 
-  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
-    Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
-  - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
-    Silge.](https://supervised-ml-course.netlify.app/)
-  - 🎓 [**Introduction to Machine Learning for Coders** by Jeremy
-    Howard.](http://course18.fast.ai/ml)
-  - 📝 [**scikit-learn User Guide** by
-    scikit-learn](https://scikit-learn.org/stable/user_guide.html)
-  - 📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand Rajaraman,
-    Jeff Ullman](http://www.mmds.org/)
-  - 📚 [**Interpretable Machine Learning: A Guide for Making Black Box
-    Models Explainable** by Christoph Molnar
-    (2020)](https://christophm.github.io/interpretable-ml-book/)
-  - 📝 [Distill](https://distill.pub/)
+## Theory
+
   - 📚 [**Elements of Statistical Learning** by Trevor Hastie, Robert
     Tibshirani and Jerome Friedman
     (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
-  - 📚 [**Introduction to Statistical Learning** by Gareth James, Daniela
-    Witten, Trevor Hastie and Robert
-    Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
   - 📚 [**Computer Age Statistical Inference: Algorithms, Evidence and
     Data Science** by Bradley Efron and Trevor Hastie
     (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+  - 📚[**Mathematics for Machine Learning** by Marc Peter Deisenroth, A.
+    Aldo Faisal, Cheng Soon
+    Ong](https://mml-book.github.io/book/mml-book.pdf)
+  - 📝 [Distill](https://distill.pub/)
+  - 📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand Rajaraman,
+    Jeff Ullman](http://www.mmds.org/)
+
+## Practice
+
+  - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
+    Silge.](https://supervised-ml-course.netlify.app/)
+  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+    Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
+  - 📝 [**scikit-learn User Guide** by
+    scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+  - 🎓 [**Introduction to Machine Learning for Coders** by Jeremy
+    Howard.](http://course18.fast.ai/ml)
+  - 📚 [**Interpretable Machine Learning: A Guide for Making Black Box
+    Models Explainable** by Christoph Molnar
+    (2020)](https://christophm.github.io/interpretable-ml-book/)
+  - 📚 [**Introduction to Statistical Learning** by Gareth James, Daniela
+    Witten, Trevor Hastie and Robert
+    Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
