@@ -8,6 +8,7 @@ Free data science resources
   - [Data Science Ethics](#data-science-ethics)
   - [Developing interactive
     applications](#developing-interactive-applications)
+  - [Visualisation](#visualisation)
   - [GIS and Spatial Data Science](#gis-and-spatial-data-science)
   - [Time series analysis](#time-series-analysis)
   - [Generalised Additive Modelling
@@ -16,6 +17,7 @@ Free data science resources
   - [Data Science community groups](#data-science-community-groups)
   - [Natural language processing](#natural-language-processing)
   - [Machine Learning](#machine-learning)
+  - [Special Topics](#special-topics)
 
 🚧 This page is a work in progress\!
 
@@ -57,6 +59,9 @@ broken link, please file an issue or submit a pull request.
     Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).
     Tour of RStudio, installing and using packages and getting data into
     RStudio.
+  - 🎓 [**Teacups, Statistics and Giraffes** by Hasse Walum and Desirée
+    de
+    Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/)
   - ▶️ [**A Gentle Introduction to Tidy Statistics in R** by Thomas
     Mock,
     RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).
@@ -71,6 +76,12 @@ broken link, please file an issue or submit a pull request.
     RStudio](https://rstudio.cloud/learn/primers/). Interactive
     tutorials from RStudio covering data manipulation, visualisation and
     programming with R.
+  - 🎓 [**Swirl: Learn R, in R** by Ismael Fernández, Nick Carchedi and
+    Sean Kross](https://swirlstats.com/)
+  - 🎓 [**Using R for Data Journalism** by Andrew Ba
+    Tran](http://learn.r-journalism.com/en/introduction/)
+  - 📚 [**R for Data Science** by Garrett Grolemund and Hadley
+    Wickham](https://r4ds.had.co.nz/)
   - 💡 [**Base R Cheat Sheet** by Mhairi
     McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
     Quick overview of basic R functionality.
@@ -100,6 +111,10 @@ broken link, please file an issue or submit a pull request.
     RStudio](https://rstudio.com/resources/webinars/)
   - 📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the R
     Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf)
+  - 📚 / 🎓 [**Data science for economists** by Grant
+    McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists)
+  - 📚 / 🎓 [**Big Data in Economics** by Grant
+    McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510)
 
 ## Getting started with Python
 
@@ -232,6 +247,15 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Leaflet for R** by RStudio](https://rstudio.github.io/leaflet/)
   - 📝 [**Dash User Guide** by Plotly](https://dash.plotly.com)
 
+# Visualisation
+
+  - 📚 [**Fundamentals of Data Visualization** by Claus O.
+    Wilke](https://serialmentor.com/dataviz/)
+  - 📚 [**ggplot2: Elegant Graphics for Data Analysis** by Hadley
+    Wickham](https://ggplot2-book.org/)
+  - 📝 [**3D Mapping and Visualization with R and Rayshader** by Tyler
+    Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
+
 # GIS and Spatial Data Science
 
   - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
@@ -282,6 +306,8 @@ broken link, please file an issue or submit a pull request.
     Rivers](https://jumpingrivers.github.io/meetingsR/r-user-groups.html)
   - 👥 [**Complete list of R-Ladies groups** by R-Ladies
     Global](https://benubah.github.io/r-community-explorer/rladies.html)
+  - 👥 [**R for Data Science Online Learning
+    Community**](https://www.rfordatasci.com/)
   - 👥 [**Tidy Tuesday** A weekly podcast and community activity brought
     to you by the R4DS Online Learning
     Community](https://www.tidytuesday.com/)
@@ -343,3 +369,8 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**Introduction to Statistical Learning** by Gareth James, Daniela
     Witten, Trevor Hastie and Robert
     Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+
+# Special Topics
+
+  - ⏯ [**Structural Equation Modelling** by Erin M.
+    Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
