@@ -126,15 +126,20 @@ __Key to resource types__
 + `r emo::ji('college')` [__Intro to SQL: Querying and managing data__ by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 + `r emo::ji('college')` [__LearnSQLOnline__ by Ron Reiter](https://www.learnsqlonline.org/)
 
+## Docker
+
++ `r emo::ji('play button')` [__Docker and Python: making them play nicely and securely for Data Science and ML__ by Tania Allard at PyCon 2020](https://us.pycon.org/2020/schedule/presentation/175/)
+
 ## Markdown, LaTeX and publishing
 
 + `r emo::ji('books')` [__R Markdown: The Definitive Guide__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 + `r emo::ji('books')` [__bookdown: Authoring Books and Technical Documents with R Markdown__ by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 
 
-# Data Science Software Development
 
-## Pitfalls and best practices
+# Data Science Practice
+
+## Software development 
 
 + `r emo::ji('memo')` [__Software development skills for data scientists__ by Trey Causey](http://treycausey.com/software_dev_skills.html)
 + `r emo::ji('scroll')` [__Hidden Technical Debt in Machine Learning Systems__](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -143,9 +148,18 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Journalism as a Professional Model for Data Science__ by Brian C. Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
 + `r emo::ji('memo')` [__Cookiecutter Data Science__ by drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
-## Tooling 
+## Project management
 
-+ `r emo::ji('play button')` [__Docker and Python: making them play nicely and securely for Data Science and ML__ by Tania Allard at PyCon 2020](https://us.pycon.org/2020/schedule/presentation/175/)
++ `r emo::ji('books')` [__Agile Data Science with R: A workflow__ by Edwin Thoen](https://edwinth.github.io/ADSwR/)
++ `r emo::ji('memo')`[__Data Science and Agile (What works, and what doesn't)__ by Eugene Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
++  `r emo::ji('memo')` [__Data Science Best Practices: Run your data science team like an engineering team__ by Leonard Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
+
+## Ethics and fairness
+
++ `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
++ `r emo::ji('memo')` [__The Ethical Data Scientist__ Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
++ `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
++ `r emo::ji('books')` [__Fairness and machine learning: Limitations and Opportunities__ by Solon Barocas, Moritz Hardt, Arvind Narayanan](https://fairmlbook.org/)
 
 ## Style Guides
 
@@ -153,11 +167,8 @@ __Key to resource types__
 + `r emo::ji('books')` [__The tidyverse style guide__ by Hadley Wickham](https://style.tidyverse.org/)
 
 
-# Data Science Ethics
 
-+ `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
-+ `r emo::ji('memo')` [__The Ethical Data Scientist__ Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-+ `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
+
 
 # Developing interactive applications
 
@@ -168,6 +179,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Dash User Guide__ by Plotly](https://dash.plotly.com)
 
 
+
 # Visualisation
 
 + `r emo::ji('books')` [__Fundamentals of Data Visualization__ by Claus O. Wilke](https://serialmentor.com/dataviz/)
@@ -175,19 +187,22 @@ __Key to resource types__
 + `r emo::ji('memo')` [__3D Mapping and Visualization with R and Rayshader__ by Tyler Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
 
 
-# GIS and Spatial Data Science
 
-+ `r emo::ji('books')` [__Geocomputation with R__ by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
 
 # Time series analysis
 
 + `r emo::ji('books')` [__Forecasting: Principles and Practice__ by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp2/)
 + `r emo::ji('memo')` [__11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)__ by Jason Brownlee](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
+
+
 # Generalised Additive Modelling (GAMs)
 
 + `r emo::ji('college')` [__GAMs in R__ by Noam Ross](https://noamross.github.io/gams-in-r-course/)  Interactive course introducing Generalised Additive Models (GAMs).
 + `r emo::ji('memo')` [__Resources for Learning About and Using GAMs in R__ by Noam Ross](https://github.com/noamross/gam-resources)
+
+
+
 
 # Statistics
 
@@ -200,6 +215,8 @@ __Key to resource types__
 + `r emo::ji('books')` [__Core Statistics__ by Simon Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
 
 
+
+
 # Data Science community groups
 
 + `r emo::ji('users')` [__PyData Meetup Groups__](https://www.meetup.com/pro/pydata/)
@@ -209,6 +226,9 @@ __Key to resource types__
 + `r emo::ji('users')` [__R for Data Science Online Learning Community__](https://www.rfordatasci.com/)
 + `r emo::ji('users')` [__Tidy Tuesday__ A weekly podcast and community activity brought to you by the R4DS Online Learning Community](https://www.tidytuesday.com/)
 + `r emo::ji('users')`[__SatRdays__ SatRdays are R-focused conferences that are held on Saturdays](https://satrdays.org/)
+
+
+
 
 # Natural language processing
 
@@ -220,6 +240,9 @@ __Key to resource types__
   + `r emo::ji('college')`  [__A Code-First Intro to Natural Language Processing__ by fast.ai](https://github.com/fastai/course-nlp).  The course is taught in Python with Jupyter Notebooks, using libraries such as sklearn, nltk, pytorch, and fastai.
 + `r emo::ji('books')` [__Speech and Language Processing__ by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 + `r emo::ji('play button')` [__BERT Research Series__ by  Chris McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+
+
+
 
 # Machine Learning
 
@@ -242,9 +265,13 @@ __Key to resource types__
 + `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 + `r emo::ji('memo')` [__Machine Learning Interpretability (MLI)__ by h2o.ai](https://github.com/h2oai/mli-resources)
 
+
+
+
 # Special Topics
 
 + `r emo::ji('play')` [__Structural Equation Modelling__ by Erin M. Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
++ `r emo::ji('books')` [__Geocomputation with R__ by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
 
 
 
