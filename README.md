@@ -3,13 +3,10 @@ Free data science resources
 
   - [Overview](#overview)
   - [Software & Programming](#software-programming)
-  - [Data Science Software
-    Development](#data-science-software-development)
-  - [Data Science Ethics](#data-science-ethics)
+  - [Data Science Practice](#data-science-practice)
   - [Developing interactive
     applications](#developing-interactive-applications)
   - [Visualisation](#visualisation)
-  - [GIS and Spatial Data Science](#gis-and-spatial-data-science)
   - [Time series analysis](#time-series-analysis)
   - [Generalised Additive Modelling
     (GAMs)](#generalised-additive-modelling-gams)
@@ -219,6 +216,12 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**LearnSQLOnline** by Ron
     Reiter](https://www.learnsqlonline.org/)
 
+## Docker
+
+  - ▶️ [**Docker and Python: making them play nicely and securely for
+    Data Science and ML** by Tania Allard at PyCon
+    2020](https://us.pycon.org/2020/schedule/presentation/175/)
+
 ## Markdown, LaTeX and publishing
 
   - 📚 [**R Markdown: The Definitive Guide** by Yihui Xie, J. J. Allaire,
@@ -226,9 +229,9 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**bookdown: Authoring Books and Technical Documents with R
     Markdown** by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 
-# Data Science Software Development
+# Data Science Practice
 
-## Pitfalls and best practices
+## Software development
 
   - 📝 [**Software development skills for data scientists** by Trey
     Causey](http://treycausey.com/software_dev_skills.html)
@@ -247,11 +250,28 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Cookiecutter Data Science** by
     drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
-## Tooling
+## Project management
 
-  - ▶️ [**Docker and Python: making them play nicely and securely for
-    Data Science and ML** by Tania Allard at PyCon
-    2020](https://us.pycon.org/2020/schedule/presentation/175/)
+  - 📚 [**Agile Data Science with R: A workflow** by Edwin
+    Thoen](https://edwinth.github.io/ADSwR/)
+  - 📝[**Data Science and Agile (What works, and what doesn’t)** by
+    Eugene
+    Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
+  - 📝 [**Data Science Best Practices: Run your data science team like an
+    engineering team** by Leonard
+    Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
+
+## Ethics and fairness
+
+  - 📝 [**A Code of Ethics for Data Science** by DJ
+    Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
+  - 📝 [**The Ethical Data Scientist** Cathy O’
+    Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
+  - 📝 [**An ethics checklist for data scientists** by
+    drivendata](https://deon.drivendata.org/)
+  - 📚 [**Fairness and machine learning: Limitations and Opportunities**
+    by Solon Barocas, Moritz Hardt, Arvind
+    Narayanan](https://fairmlbook.org/)
 
 ## Style Guides
 
@@ -260,18 +280,9 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**The tidyverse style guide** by Hadley
     Wickham](https://style.tidyverse.org/)
 
-# Data Science Ethics
-
-  - 📝 [**A Code of Ethics for Data Science** by DJ
-    Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
-  - 📝 [**The Ethical Data Scientist** Cathy O’
-    Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-  - 📝 [**An ethics checklist for data scientists** by
-    drivendata](https://deon.drivendata.org/)
-
 # Developing interactive applications
 
-  - ▶️ / 🎓 [**Learn Shiny** by
+  - ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -289,11 +300,6 @@ broken link, please file an issue or submit a pull request.
     Wickham](https://ggplot2-book.org/)
   - 📝 [**3D Mapping and Visualization with R and Rayshader** by Tyler
     Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
-
-# GIS and Spatial Data Science
-
-  - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
-    Jannes Muenchow](https://geocompr.robinlovelace.net/)
 
 # Time series analysis
 
@@ -393,7 +399,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -410,5 +416,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - ▶️ [**Structural Equation Modelling** by Erin M.
+  - ⏯ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
+  - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
+    Jannes Muenchow](https://geocompr.robinlovelace.net/)
