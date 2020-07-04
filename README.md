@@ -81,7 +81,9 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**Using R for Data Journalism** by Andrew Ba
     Tran](http://learn.r-journalism.com/en/introduction/)
   - 📚 [**R for Data Science** by Garrett Grolemund and Hadley
-    Wickham](https://r4ds.had.co.nz/)
+    Wickham](https://r4ds.had.co.nz/) 📚 [**Introduction to Data Science:
+    Data Analysis and Prediction Algorithms with R** by Rafael A.
+    Irizarry](https://rafalab.github.io/dsbook/)
   - 💡 [**Base R Cheat Sheet** by Mhairi
     McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
     Quick overview of basic R functionality.
@@ -126,6 +128,8 @@ broken link, please file an issue or submit a pull request.
     Kevin Markham](https://www.dataschool.io/python-quick-reference/).
   - 📝 [**An Introduction to Python and Programming** by Alexander
     Hess](https://github.com/webartifex/intro-to-python).
+  - 📚[**A Whirlwind Tour of Python** by Jake
+    VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
   - 🎓 [**Learn Python** by Ron Reiter](https://www.learnpython.org/).
   - 💡 [**Pandas Cheat Sheet** by the Pandas development
     team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
@@ -138,6 +142,8 @@ broken link, please file an issue or submit a pull request.
     VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/).
   - 📚 [**Python for Everybody: Exploring Data Using Python 3** by
     Charles R. Severance](https://www.py4e.com/book.php)
+  - 📝 [**Python Packaging User Guide** by the Python Packaging Authority
+    (PyPA)](https://packaging.python.org/)
 
 ## Shell
 
@@ -150,6 +156,12 @@ broken link, please file an issue or submit a pull request.
     Documentation](https://help.ubuntu.com/community/Beginners/BashScripting)
   - ▶️ [**How to Write a Shell Script using Bash Shell in Ubuntu** by FS
     Tutorial](https://www.youtube.com/watch?v=He-5BpUGSag)
+  - 🎓 / ▶️ [**The Missing Semester of Your CS Education** by Anish
+    Athalye, Jon Gjengset and Jose Javier Gonzalez
+    Ortiz](https://missing.csail.mit.edu/)
+  - 📝 [**The Art of the Command Line** by Joshua
+    Levy](https://github.com/jlevy/the-art-of-command-line)
+  - 📝 [**ExplainShell.com** by Idan Kamara](https://explainshell.com/)
 
 ## Regular expressions
 
@@ -207,7 +219,16 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**LearnSQLOnline** by Ron
     Reiter](https://www.learnsqlonline.org/)
 
+## Markdown, LaTeX and publishing
+
+  - 📚 [**R Markdown: The Definitive Guide** by Yihui Xie, J. J. Allaire,
+    Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
+  - 📚 [**bookdown: Authoring Books and Technical Documents with R
+    Markdown** by Yihui Xie](https://bookdown.org/yihui/bookdown/)
+
 # Data Science Software Development
+
+## Pitfalls and best practices
 
   - 📝 [**Software development skills for data scientists** by Trey
     Causey](http://treycausey.com/software_dev_skills.html)
@@ -226,6 +247,19 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Cookiecutter Data Science** by
     drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
+## Tooling
+
+  - ▶️ [**Docker and Python: making them play nicely and securely for
+    Data Science and ML** by Tania Allard at PyCon
+    2020](https://us.pycon.org/2020/schedule/presentation/175/)
+
+## Style Guides
+
+  - 📝 [**Udacity Git Commit Message Style Guide** by
+    Udacity](http://udacity.github.io/git-styleguide/)
+  - 📚 [**The tidyverse style guide** by Hadley
+    Wickham](https://style.tidyverse.org/)
+
 # Data Science Ethics
 
   - 📝 [**A Code of Ethics for Data Science** by DJ
@@ -237,7 +271,7 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - ⏯ / 🎓 [**Learn Shiny** by
+  - ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -355,6 +389,8 @@ broken link, please file an issue or submit a pull request.
 
 ## Practice
 
+  - 🎓 [**Machine Learning Crash Course with TensorFlow APIs** by
+    Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
   - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
@@ -369,8 +405,10 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**Introduction to Statistical Learning** by Gareth James, Daniela
     Witten, Trevor Hastie and Robert
     Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+  - 📝 [**Machine Learning Interpretability (MLI)** by
+    h2o.ai](https://github.com/h2oai/mli-resources)
 
 # Special Topics
 
-  - ⏯ [**Structural Equation Modelling** by Erin M.
+  - ▶️ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
