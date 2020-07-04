@@ -44,6 +44,7 @@ __Key to resource types__
 + `r emo::ji('college')` [__Swirl: Learn R, in R__ by Ismael Fernández, Nick Carchedi and Sean Kross](https://swirlstats.com/)
 + `r emo::ji('college')` [__Using R for Data Journalism__ by Andrew Ba Tran](http://learn.r-journalism.com/en/introduction/)
 + `r emo::ji('books')` [__R for Data Science__ by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
+`r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 + `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  Quick overview of basic R functionality.
 
 
@@ -67,6 +68,7 @@ __Key to resource types__
 + `r emo::ji('college')` [__Free interactive introduction to Python and pandas__](https://python-course.nixd.dk/).
 + `r emo::ji('memo')` [__Quick reference to Python in a single script and notebook__ by Kevin Markham](https://www.dataschool.io/python-quick-reference/).
 + `r emo::ji('memo')` [__An Introduction to Python and Programming__ by Alexander Hess](https://github.com/webartifex/intro-to-python).
++ `r emo::ji('books')`[__A Whirlwind Tour of Python__ by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
 + `r emo::ji('college')`  [__Learn Python__ by Ron Reiter](https://www.learnpython.org/).
 + `r emo::ji('bulb')` [__Pandas Cheat Sheet__ by the Pandas development team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
 +  `r emo::ji('memo')` [__10 minutes to pandas__ by the Pandas development team](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
@@ -76,6 +78,7 @@ __Key to resource types__
 
 + `r emo::ji('books')` [__Python Data Science Handbook__ by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/).
 + `r emo::ji('books')` [__Python for Everybody: Exploring Data Using Python 3__ by Charles R. Severance](https://www.py4e.com/book.php)
++ `r emo::ji('memo')` [__Python Packaging User Guide__ by the Python Packaging Authority (PyPA)](https://packaging.python.org/)
 
 ## Shell
 
@@ -84,6 +87,9 @@ __Key to resource types__
 + `r emo::ji('memo')` [__The Beginner’s Guide to Shell Scripting: The Basics__ by Yatri Trivedi](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
 + `r emo::ji('memo')` [__Beginners/BashScripting__ by Ubuntu Documentation](https://help.ubuntu.com/community/Beginners/BashScripting)
 + `r emo::ji('play button')` [__How to Write a Shell Script using Bash Shell in Ubuntu__ by FS Tutorial](https://www.youtube.com/watch?v=He-5BpUGSag)
++ `r emo::ji('college')` / `r emo::ji('play button')` [__The Missing Semester of Your CS Education__ by Anish Athalye, Jon Gjengset and Jose Javier Gonzalez Ortiz](https://missing.csail.mit.edu/)
++ `r emo::ji('memo')` [__The Art of the Command Line__ by Joshua Levy](https://github.com/jlevy/the-art-of-command-line)
++ `r emo::ji('memo')` [__ExplainShell.com__ by Idan Kamara](https://explainshell.com/)
 
 ## Regular expressions
 
@@ -120,8 +126,15 @@ __Key to resource types__
 + `r emo::ji('college')` [__Intro to SQL: Querying and managing data__ by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 + `r emo::ji('college')` [__LearnSQLOnline__ by Ron Reiter](https://www.learnsqlonline.org/)
 
+## Markdown, LaTeX and publishing
+
++ `r emo::ji('books')` [__R Markdown: The Definitive Guide__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
++ `r emo::ji('books')` [__bookdown: Authoring Books and Technical Documents with R Markdown__ by Yihui Xie](https://bookdown.org/yihui/bookdown/)
+
 
 # Data Science Software Development
+
+## Pitfalls and best practices
 
 + `r emo::ji('memo')` [__Software development skills for data scientists__ by Trey Causey](http://treycausey.com/software_dev_skills.html)
 + `r emo::ji('scroll')` [__Hidden Technical Debt in Machine Learning Systems__](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -129,6 +142,16 @@ __Key to resource types__
 +  `r emo::ji('scroll')`  [__Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research__ by Victoria Stodden and Sheila Miguez](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
 + `r emo::ji('memo')` [__Journalism as a Professional Model for Data Science__ by Brian C. Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
 + `r emo::ji('memo')` [__Cookiecutter Data Science__ by drivendata](https://github.com/drivendata/cookiecutter-data-science)
+
+## Tooling 
+
++ `r emo::ji('play button')` [__Docker and Python: making them play nicely and securely for Data Science and ML__ by Tania Allard at PyCon 2020](https://us.pycon.org/2020/schedule/presentation/175/)
+
+## Style Guides
+
++ `r emo::ji('memo')` [__Udacity Git Commit Message Style Guide__ by Udacity](http://udacity.github.io/git-styleguide/)
++ `r emo::ji('books')` [__The tidyverse style guide__ by Hadley Wickham](https://style.tidyverse.org/)
+
 
 # Data Science Ethics
 
@@ -210,12 +233,14 @@ __Key to resource types__
 
 ## Practice
 
++ `r emo::ji('college')` [__Machine Learning Crash Course with TensorFlow APIs__ by Google](https://developers.google.com/machine-learning/crash-course)
 + `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
 + `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 + `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 + `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
 + `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
 + `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
++ `r emo::ji('memo')` [__Machine Learning Interpretability (MLI)__ by h2o.ai](https://github.com/h2oai/mli-resources)
 
 # Special Topics
 
