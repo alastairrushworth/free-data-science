@@ -35,7 +35,7 @@ __Key to resource types__
 ## Getting started with R
 
 + `r emo::ji('books')` [__Modern Dive: Getting Started__ by Chester Ismay and Albert Y. Kim](https://moderndive.netlify.app/1-getting-started.html).  The very first of first steps.  Install R & RStudio and what to do after that.
-+ `r emo::ji('memo')` [__Basic Basics__ by R Ladies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).  Tour of RStudio, installing and using packages and getting data into RStudio.
++ `r emo::ji('memo')` [__RYouWithMe: Basic Basics__ by Lisa Williams, RLadies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).  Tour of RStudio, installing and using packages and getting data into RStudio.
 + `r emo::ji('college')` [__Teacups, Statistics and Giraffes__ by Hasse Walum and Desirée de Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/)
 + `r emo::ji('play button')` [__A Gentle Introduction to Tidy Statistics in R__ by Thomas Mock, RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).  Webinar covering exploratory data analysis, tidyverse, statistical testing and plotting.  
 + `r emo::ji('college')` [__The R Bootcamp__ by Ted Laderas and Jessica Minnier](https://r-bootcamp.netlify.app/).  A tidyverse-centric interactive course for data manipulation, graphics, data reshaping, and statistical modelling.
@@ -61,6 +61,8 @@ __Key to resource types__
 + `r emo::ji('books')` [__An Introduction to R__ by W. N. Venables, D. M. Smith and the R Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 + `r emo::ji('books')` / `r emo::ji('college')` [__Data science for economists__ by Grant McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists)
 + `r emo::ji('books')` / `r emo::ji('college')` [__Big Data in Economics__ by Grant McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510)
++ `r emo::ji('books')` [__Handling Strings with R__ by Gaston Sanchez and Chitra Venkatesh](https://www.gastonsanchez.com/r4strings/)
++ `r emo::ji('play button')` [__R Package Development__ by John Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM)
 
 ## Getting started with Python
 
@@ -127,14 +129,16 @@ __Key to resource types__
 + `r emo::ji('college')` [__LearnSQLOnline__ by Ron Reiter](https://www.learnsqlonline.org/)
 
 ## Docker
-
++ `r emo::ji('memo')` [__An Introduction to Docker for R Users__ by Colin Fay](https://colinfay.me/docker-r-reproducibility/)
++ `r emo::ji('college')` [__R Docker tutorial__ by ROpenSciLabs](https://ropenscilabs.github.io/r-docker-tutorial/)
 + `r emo::ji('play button')` [__Docker and Python: making them play nicely and securely for Data Science and ML__ by Tania Allard at PyCon 2020](https://us.pycon.org/2020/schedule/presentation/175/)
 
 ## Markdown, LaTeX and publishing
 
 + `r emo::ji('books')` [__R Markdown: The Definitive Guide__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 + `r emo::ji('books')` [__bookdown: Authoring Books and Technical Documents with R Markdown__ by Yihui Xie](https://bookdown.org/yihui/bookdown/)
-
++ `r emo::ji('books')` [__The Not So Short Introduction to LaTeX 2ε__ by Tobias Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
++ `r emo::ji('books')` [__LaTeX for Beginners__ by UoE IS Services](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
 
 
 # Data Science Practice
@@ -161,6 +165,11 @@ __Key to resource types__
 + `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
 + `r emo::ji('books')` [__Fairness and machine learning: Limitations and Opportunities__ by Solon Barocas, Moritz Hardt, Arvind Narayanan](https://fairmlbook.org/)
 
+## MLOps
+
++ `r emo::ji('memo')` [__MLOps: Continuous delivery and automation pipelines in machine learning__ by Google Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
++ `r emo::ji('memo')` [__Using GitHub Actions for MLOps & Data Science__ by Hamel Husain, The Github Blog](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
+
 ## Style Guides
 
 + `r emo::ji('memo')` [__Udacity Git Commit Message Style Guide__ by Udacity](http://udacity.github.io/git-styleguide/)
@@ -174,6 +183,7 @@ __Key to resource types__
 
 + `r emo::ji('play')` / `r emo::ji('college')` [__Learn Shiny__ by RStudio](https://shiny.rstudio.com/tutorial/)
 + `r emo::ji('books')` [__A gRadual intRoduction to Shiny__ by Ted Laderas and Jessica Minnier](https://laderast.github.io/gradual_shiny/)
++ `r emo::ji('books')` [__Interactive web-based data visualization with R, plotly, and shiny__ by Carson Sievert](https://plotly-r.com/)
 + `r emo::ji('books')` [__Dashboards__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).  Chapter 5 from 'R Markdown: The Definitive Guide'.
 + `r emo::ji('memo')` [__Leaflet for R__ by RStudio](https://rstudio.github.io/leaflet/)
 + `r emo::ji('memo')` [__Dash User Guide__ by Plotly](https://dash.plotly.com)
@@ -242,7 +252,9 @@ __Key to resource types__
 + `r emo::ji('play button')` [__BERT Research Series__ by  Chris McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
 
+# Deep Learning
 
++ `r emo::ji('memo')` [__PyTorch Tutorials and Recipes__ by PyTorch](https://pytorch.org/tutorials/)
 
 # Machine Learning
 

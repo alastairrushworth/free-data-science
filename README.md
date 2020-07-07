@@ -13,6 +13,7 @@ Free data science resources
   - [Statistics](#statistics)
   - [Data Science community groups](#data-science-community-groups)
   - [Natural language processing](#natural-language-processing)
+  - [Deep Learning](#deep-learning)
   - [Machine Learning](#machine-learning)
   - [Special Topics](#special-topics)
 
@@ -52,7 +53,7 @@ broken link, please file an issue or submit a pull request.
     Kim](https://moderndive.netlify.app/1-getting-started.html). The
     very first of first steps. Install R & RStudio and what to do after
     that.
-  - 📝 [**Basic Basics** by R Ladies
+  - 📝 [**RYouWithMe: Basic Basics** by Lisa Williams, RLadies
     Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).
     Tour of RStudio, installing and using packages and getting data into
     RStudio.
@@ -114,6 +115,10 @@ broken link, please file an issue or submit a pull request.
     McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists)
   - 📚 / 🎓 [**Big Data in Economics** by Grant
     McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510)
+  - 📚 [**Handling Strings with R** by Gaston Sanchez and Chitra
+    Venkatesh](https://www.gastonsanchez.com/r4strings/)
+  - ▶️ [**R Package Development** by John
+    Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM)
 
 ## Getting started with Python
 
@@ -218,6 +223,10 @@ broken link, please file an issue or submit a pull request.
 
 ## Docker
 
+  - 📝 [**An Introduction to Docker for R Users** by Colin
+    Fay](https://colinfay.me/docker-r-reproducibility/)
+  - 🎓 [**R Docker tutorial** by
+    ROpenSciLabs](https://ropenscilabs.github.io/r-docker-tutorial/)
   - ▶️ [**Docker and Python: making them play nicely and securely for
     Data Science and ML** by Tania Allard at PyCon
     2020](https://us.pycon.org/2020/schedule/presentation/175/)
@@ -228,6 +237,10 @@ broken link, please file an issue or submit a pull request.
     Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
   - 📚 [**bookdown: Authoring Books and Technical Documents with R
     Markdown** by Yihui Xie](https://bookdown.org/yihui/bookdown/)
+  - 📚 [**The Not So Short Introduction to LaTeX 2ε** by Tobias
+    Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
+  - 📚 [**LaTeX for Beginners** by UoE IS
+    Services](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
 
 # Data Science Practice
 
@@ -273,6 +286,15 @@ broken link, please file an issue or submit a pull request.
     by Solon Barocas, Moritz Hardt, Arvind
     Narayanan](https://fairmlbook.org/)
 
+## MLOps
+
+  - 📝 [**MLOps: Continuous delivery and automation pipelines in machine
+    learning** by Google
+    Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+  - 📝 [**Using GitHub Actions for MLOps & Data Science** by Hamel
+    Husain, The Github
+    Blog](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
+
 ## Style Guides
 
   - 📝 [**Udacity Git Commit Message Style Guide** by
@@ -282,10 +304,12 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - ⏯ / 🎓 [**Learn Shiny** by
+  - ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
+  - 📚 [**Interactive web-based data visualization with R, plotly, and
+    shiny** by Carson Sievert](https://plotly-r.com/)
   - 📚 [**Dashboards** by Yihui Xie, J. J. Allaire, Garrett
     Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).
     Chapter 5 from ‘R Markdown: The Definitive Guide’.
@@ -376,6 +400,11 @@ broken link, please file an issue or submit a pull request.
   - ▶️ [**BERT Research Series** by Chris
     McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
+# Deep Learning
+
+  - 📝 [**PyTorch Tutorials and Recipes** by
+    PyTorch](https://pytorch.org/tutorials/)
+
 # Machine Learning
 
 ## Theory
@@ -399,7 +428,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+  - 📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -416,7 +445,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - ⏯ [**Structural Equation Modelling** by Erin M.
+  - ▶️ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
     Jannes Muenchow](https://geocompr.robinlovelace.net/)
