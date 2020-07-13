@@ -20,10 +20,11 @@ Remember that material that is offered freely on the web is paid for by the auth
 
 __Key to resource types__
 
-+ `r emo::ji('play button')` = Video or webinar
 + `r emo::ji('college')` = Course
 + `r emo::ji('memo')` = Tutorial or blog post
 + `r emo::ji('books')` = Book or book chapter
++ `r emo::ji('play button')` = Video or webinar
++ `r emo::ji('headphone')` = Podcast or audio recording
 + `r emo::ji('users')` = Community or user forum 
 + `r emo::ji('scroll')` = Journal or technical article
 + `r emo::ji('bulb')` = Cheat sheet
@@ -44,7 +45,7 @@ __Key to resource types__
 + `r emo::ji('college')` [__Swirl: Learn R, in R__ by Ismael Fernández, Nick Carchedi and Sean Kross](https://swirlstats.com/)
 + `r emo::ji('college')` [__Using R for Data Journalism__ by Andrew Ba Tran](http://learn.r-journalism.com/en/introduction/)
 + `r emo::ji('books')` [__R for Data Science__ by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
-`r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
++ `r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 + `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  Quick overview of basic R functionality.
 
 
@@ -154,14 +155,16 @@ __Key to resource types__
 
 ## Project management
 
++ `r emo::ji('books')` [__The Care and Feeding of Data Scientists: How to Build, Manage and Retain a Data Science Team__ by Michelangelo D'Agostino and Katie Malone](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
++ `r emo::ji('headphone')` [__The Care and Feeding of Data Scientists: Becoming a Data Science Manager__ on Linear Digressions podcast by Katie Malone and Ben Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
 + `r emo::ji('books')` [__Agile Data Science with R: A workflow__ by Edwin Thoen](https://edwinth.github.io/ADSwR/)
-+ `r emo::ji('memo')`[__Data Science and Agile (What works, and what doesn't)__ by Eugene Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
++ `r emo::ji('memo')` [__Data Science and Agile (What works, and what doesn't)__ by Eugene Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
 +  `r emo::ji('memo')` [__Data Science Best Practices: Run your data science team like an engineering team__ by Leonard Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
 
 ## Ethics and fairness
 
 + `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
-+ `r emo::ji('memo')` [__The Ethical Data Scientist__ Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
++ `r emo::ji('memo')` [__The Ethical Data Scientist__ by Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 + `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
 + `r emo::ji('books')` [__Fairness and machine learning: Limitations and Opportunities__ by Solon Barocas, Moritz Hardt, Arvind Narayanan](https://fairmlbook.org/)
 
@@ -174,8 +177,9 @@ __Key to resource types__
 
 + `r emo::ji('memo')` [__Udacity Git Commit Message Style Guide__ by Udacity](http://udacity.github.io/git-styleguide/)
 + `r emo::ji('books')` [__The tidyverse style guide__ by Hadley Wickham](https://style.tidyverse.org/)
-
-
++ `r emo::ji('memo')`[__The Google R Style Guide__ by Google](https://google.github.io/styleguide/Rguide.html)
++ `r emo::ji('memo')` [__The Google Python Style Guide__ by Google](https://google.github.io/styleguide/pyguide.html)
++ `r emo::ji('memo')` [__PEP 8 -- Style Guide for Python Code__ by Guido van Rossum, Barry Warsaw, Nick Coghlan](https://www.python.org/dev/peps/pep-0008/)
 
 
 
