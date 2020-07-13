@@ -37,10 +37,11 @@ broken link, please file an issue or submit a pull request.
 
 **Key to resource types**
 
-  - ▶️ = Video or webinar
   - 🎓 = Course
   - 📝 = Tutorial or blog post
   - 📚 = Book or book chapter
+  - ▶️ = Video or webinar
+  - 🎧 = Podcast or audio recording
   - 👥 = Community or user forum
   - 📜 = Journal or technical article
   - 💡 = Cheat sheet
@@ -79,8 +80,9 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**Using R for Data Journalism** by Andrew Ba
     Tran](http://learn.r-journalism.com/en/introduction/)
   - 📚 [**R for Data Science** by Garrett Grolemund and Hadley
-    Wickham](https://r4ds.had.co.nz/) 📚 [**Introduction to Data Science:
-    Data Analysis and Prediction Algorithms with R** by Rafael A.
+    Wickham](https://r4ds.had.co.nz/)
+  - 📚 [**Introduction to Data Science: Data Analysis and Prediction
+    Algorithms with R** by Rafael A.
     Irizarry](https://rafalab.github.io/dsbook/)
   - 💡 [**Base R Cheat Sheet** by Mhairi
     McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
@@ -265,9 +267,17 @@ broken link, please file an issue or submit a pull request.
 
 ## Project management
 
+  - 📚 [**The Care and Feeding of Data Scientists: How to Build, Manage
+    and Retain a Data Science Team** by Michelangelo D’Agostino and
+    Katie
+    Malone](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
+  - 🎧 [**The Care and Feeding of Data Scientists: Becoming a Data
+    Science Manager** on Linear Digressions podcast by Katie Malone and
+    Ben
+    Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
   - 📚 [**Agile Data Science with R: A workflow** by Edwin
     Thoen](https://edwinth.github.io/ADSwR/)
-  - 📝[**Data Science and Agile (What works, and what doesn’t)** by
+  - 📝 [**Data Science and Agile (What works, and what doesn’t)** by
     Eugene
     Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
   - 📝 [**Data Science Best Practices: Run your data science team like an
@@ -278,7 +288,7 @@ broken link, please file an issue or submit a pull request.
 
   - 📝 [**A Code of Ethics for Data Science** by DJ
     Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
-  - 📝 [**The Ethical Data Scientist** Cathy O’
+  - 📝 [**The Ethical Data Scientist** by Cathy O’
     Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
   - 📝 [**An ethics checklist for data scientists** by
     drivendata](https://deon.drivendata.org/)
@@ -301,6 +311,13 @@ broken link, please file an issue or submit a pull request.
     Udacity](http://udacity.github.io/git-styleguide/)
   - 📚 [**The tidyverse style guide** by Hadley
     Wickham](https://style.tidyverse.org/)
+  - 📝[**The Google R Style Guide** by
+    Google](https://google.github.io/styleguide/Rguide.html)
+  - 📝 [**The Google Python Style Guide** by
+    Google](https://google.github.io/styleguide/pyguide.html)
+  - 📝 [**PEP 8 – Style Guide for Python Code** by Guido van Rossum,
+    Barry Warsaw, Nick
+    Coghlan](https://www.python.org/dev/peps/pep-0008/)
 
 # Developing interactive applications
 
@@ -428,7 +445,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
+  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
