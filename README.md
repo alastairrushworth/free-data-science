@@ -283,6 +283,9 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Data Science Best Practices: Run your data science team like an
     engineering team** by Leonard
     Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
+  - 📝 [**Organizing machine learning projects: project management
+    guidelines** by Jeremy
+    Jordan](https://www.jeremyjordan.me/ml-projects-guide/)
 
 ## Ethics and fairness
 
@@ -304,6 +307,16 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Using GitHub Actions for MLOps & Data Science** by Hamel
     Husain, The Github
     Blog](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
+  - 📚 [**Machine Learning Logistics: Model Management in the Real
+    World** by Ted Dunning & Ellen
+    Friedman](https://mapr.com/ebook/machine-learning-logistics/assets/machine-learning-logistics.pdf)
+  - 📝 [**Continuous Delivery for Machine Learning: Automating the
+    end-to-end lifecycle of Machine Learning applications** by Danilo
+    Sato, Arif Wider and Christoph
+    Windheuser](https://martinfowler.com/articles/cd4ml.html)
+  - 📝 [**Monitoring Machine Learning Models in Production: A
+    Comprehensive Guide** by Christopher
+    Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 
 ## Style Guides
 
@@ -321,7 +334,7 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - ▶️ / 🎓 [**Learn Shiny** by
+  - 🎮 / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -445,7 +458,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -462,7 +475,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - ▶️ [**Structural Equation Modelling** by Erin M.
+  - 🎮 [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
     Jannes Muenchow](https://geocompr.robinlovelace.net/)
