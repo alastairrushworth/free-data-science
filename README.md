@@ -265,8 +265,10 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Cookiecutter Data Science** by
     drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
-## Project management
+## Hiring and building teams
 
+  - 📝 [**Hiring a data scientist** by Mikhail Popov,
+    Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
   - 📚 [**The Care and Feeding of Data Scientists: How to Build, Manage
     and Retain a Data Science Team** by Michelangelo D’Agostino and
     Katie
@@ -275,6 +277,9 @@ broken link, please file an issue or submit a pull request.
     Science Manager** on Linear Digressions podcast by Katie Malone and
     Ben
     Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
+
+## Agile data science
+
   - 📚 [**Agile Data Science with R: A workflow** by Edwin
     Thoen](https://edwinth.github.io/ADSwR/)
   - 📝 [**Data Science and Agile (What works, and what doesn’t)** by
@@ -289,6 +294,12 @@ broken link, please file an issue or submit a pull request.
 
 ## Ethics and fairness
 
+  - 📚 [**Ethics of Artificial Intelligence and Robotics** by Stanford
+    Encyclopedia of
+    Philosophy](https://plato.stanford.edu/entries/ethics-ai/)
+  - 📝 [**The Responsible Machine Learning Principles: A practical
+    framework to develop AI responsibly** by The Institute for Ethical
+    AI & Machine Learning](https://ethical.institute/principles.html)
   - 📝 [**A Code of Ethics for Data Science** by DJ
     Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
   - 📝 [**The Ethical Data Scientist** by Cathy O’
@@ -317,6 +328,12 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Monitoring Machine Learning Models in Production: A
     Comprehensive Guide** by Christopher
     Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+  - 📝 [**What are Azure Machine Learning pipelines?** by
+    Microsoft](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
+  - 📝 [**Getting started with Kubeflow Pipelines** by Amy Unruh, Google
+    Cloud](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
+  - 📝 [**Continuous Machine Learning (CML) is CI/CD for Machine Learning
+    Projects** by DVC.org](https://cml.dev/)
 
 ## Style Guides
 
@@ -334,7 +351,7 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - 🎮 / 🎓 [**Learn Shiny** by
+  - ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -458,7 +475,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
