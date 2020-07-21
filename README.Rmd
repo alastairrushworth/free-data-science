@@ -153,21 +153,31 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Journalism as a Professional Model for Data Science__ by Brian C. Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
 + `r emo::ji('memo')` [__Cookiecutter Data Science__ by drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
-## Project management
 
+## Hiring and building teams
+
++  `r emo::ji('memo')` [__Hiring a data scientist__ by Mikhail Popov, Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
 + `r emo::ji('books')` [__The Care and Feeding of Data Scientists: How to Build, Manage and Retain a Data Science Team__ by Michelangelo D'Agostino and Katie Malone](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 + `r emo::ji('headphone')` [__The Care and Feeding of Data Scientists: Becoming a Data Science Manager__ on Linear Digressions podcast by Katie Malone and Ben Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
+
+
+## Agile data science 
+
 + `r emo::ji('books')` [__Agile Data Science with R: A workflow__ by Edwin Thoen](https://edwinth.github.io/ADSwR/)
 + `r emo::ji('memo')` [__Data Science and Agile (What works, and what doesn't)__ by Eugene Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
 + `r emo::ji('memo')` [__Data Science Best Practices: Run your data science team like an engineering team__ by Leonard Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
 + `r emo::ji('memo')` [__Organizing machine learning projects: project management guidelines__ by Jeremy Jordan](https://www.jeremyjordan.me/ml-projects-guide/)
 
+
 ## Ethics and fairness
 
++ `r emo::ji('books')` [__Ethics of Artificial Intelligence and Robotics__ by Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-ai/)
++ `r emo::ji('memo')` [__The Responsible Machine Learning Principles: A practical framework to develop AI responsibly__ by The Institute for Ethical AI & Machine Learning](https://ethical.institute/principles.html)
 + `r emo::ji('memo')` [__A Code of Ethics for Data Science__ by DJ Patil](https://medium.com/@dpatil/a-code-of-ethics-for-data-science-cda27d1fac1)
 + `r emo::ji('memo')` [__The Ethical Data Scientist__ by Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 + `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
 + `r emo::ji('books')` [__Fairness and machine learning: Limitations and Opportunities__ by Solon Barocas, Moritz Hardt, Arvind Narayanan](https://fairmlbook.org/)
+
 
 ## MLOps
 
@@ -176,8 +186,9 @@ __Key to resource types__
 + `r emo::ji('books')` [__Machine Learning Logistics: Model Management in the Real World__ by Ted Dunning & Ellen Friedman](https://mapr.com/ebook/machine-learning-logistics/assets/machine-learning-logistics.pdf)
 + `r emo::ji('memo')` [__Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning applications__ by Danilo Sato, Arif Wider and Christoph Windheuser](https://martinfowler.com/articles/cd4ml.html)
 + `r emo::ji('memo')` [__Monitoring Machine Learning Models in Production: A Comprehensive Guide__ by Christopher Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
-
-
++ `r emo::ji('memo')` [__What are Azure Machine Learning pipelines?__ by Microsoft](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
++ `r emo::ji('memo')` [__Getting started with Kubeflow Pipelines__ by Amy Unruh, Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
++ `r emo::ji('memo')` [__Continuous Machine Learning (CML) is CI/CD for Machine Learning Projects__ by DVC.org](https://cml.dev/)
 
 
 ## Style Guides
