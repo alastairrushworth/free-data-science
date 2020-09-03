@@ -177,6 +177,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__The Ethical Data Scientist__ by Cathy O' Neil](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 + `r emo::ji('memo')` [__An ethics checklist for data scientists__ by drivendata](https://deon.drivendata.org/)
 + `r emo::ji('books')` [__Fairness and machine learning: Limitations and Opportunities__ by Solon Barocas, Moritz Hardt, Arvind Narayanan](https://fairmlbook.org/)
++ `r emo::ji('memo')` [__Practical Data Ethics__ by fast.ai](https://ethics.fast.ai/)
 
 
 ## MLOps
@@ -189,7 +190,13 @@ __Key to resource types__
 + `r emo::ji('memo')` [__What are Azure Machine Learning pipelines?__ by Microsoft](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
 + `r emo::ji('memo')` [__Getting started with Kubeflow Pipelines__ by Amy Unruh, Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
 + `r emo::ji('memo')` [__Continuous Machine Learning (CML) is CI/CD for Machine Learning Projects__ by DVC.org](https://cml.dev/)
++ `r emo::ji('memo')` [__Data Science Workflows__ by David Neuzerling](https://mdneuzerling.com/post/data-science-workflows/)
++ `r emo::ji('memo')` [__Monitoring Machine Learning Models in Production A Comprehensive Guide__ by Christopher Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 
+## ML Platforms
+
++ `r emo::ji('memo')` [__The problem with AI developer tools for enterprises (and what IKEA has to do with it)__ by Clemens Mewald](https://towardsdatascience.com/the-problem-with-ai-developer-tools-for-enterprises-and-what-ikea-has-to-do-with-it-b26277841661)
++ `r emo::ji('memo')` [__5 Reasons Organizations Shouldn’t Build Their Own AI Platforms__ by dataiku](https://blog.dataiku.com/5-reasons-organizations-shouldnt-build-their-own-ai-platforms)
 
 ## Style Guides
 
@@ -247,6 +254,12 @@ __Key to resource types__
 + `r emo::ji('books')` [__Core Statistics__ by Simon Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
 
 
+# Spatial analysis 
+
++ `r emo::ji('books')` [__Geocomputation with R__ by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
++ `r emo::ji('books')` [__Spatial Data Science__ by Edzer Pebesma and Roger Bivand](https://keen-swartz-3146c4.netlify.app/)
++ `r emo::ji('books')` [__Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny__ by Paula Moraga](https://www.paulamoraga.com/book-geospatial/)
+
 
 
 # Data Science community groups
@@ -258,8 +271,6 @@ __Key to resource types__
 + `r emo::ji('users')` [__R for Data Science Online Learning Community__](https://www.rfordatasci.com/)
 + `r emo::ji('users')` [__Tidy Tuesday__ A weekly podcast and community activity brought to you by the R4DS Online Learning Community](https://www.tidytuesday.com/)
 + `r emo::ji('users')`[__SatRdays__ SatRdays are R-focused conferences that are held on Saturdays](https://satrdays.org/)
-
-
 
 
 # Natural language processing
@@ -305,7 +316,7 @@ __Key to resource types__
 # Special Topics
 
 + `r emo::ji('play')` [__Structural Equation Modelling__ by Erin M. Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
-+ `r emo::ji('books')` [__Geocomputation with R__ by Robin Lovelace, Jakub Nowosad, Jannes Muenchow](https://geocompr.robinlovelace.net/)
++ `r emo::ji('books')` [__Machine Learning for Factor Investing__ by Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/)
 
 
 
