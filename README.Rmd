@@ -74,7 +74,7 @@ __Key to resource types__
 + `r emo::ji('books')`[__A Whirlwind Tour of Python__ by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
 + `r emo::ji('college')`  [__Learn Python__ by Ron Reiter](https://www.learnpython.org/).
 + `r emo::ji('bulb')` [__Pandas Cheat Sheet__ by the Pandas development team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
-+  `r emo::ji('memo')` [__10 minutes to pandas__ by the Pandas development team](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
++  `r emo::ji('memo')` [__Getting Started in pandas__ by the Pandas development team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
 
 
 ## Advancing with Python
@@ -184,7 +184,6 @@ __Key to resource types__
 
 + `r emo::ji('memo')` [__MLOps: Continuous delivery and automation pipelines in machine learning__ by Google Cloud](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 + `r emo::ji('memo')` [__Using GitHub Actions for MLOps & Data Science__ by Hamel Husain, The Github Blog](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
-+ `r emo::ji('books')` [__Machine Learning Logistics: Model Management in the Real World__ by Ted Dunning & Ellen Friedman](https://mapr.com/ebook/machine-learning-logistics/assets/machine-learning-logistics.pdf)
 + `r emo::ji('memo')` [__Continuous Delivery for Machine Learning: Automating the end-to-end lifecycle of Machine Learning applications__ by Danilo Sato, Arif Wider and Christoph Windheuser](https://martinfowler.com/articles/cd4ml.html)
 + `r emo::ji('memo')` [__Monitoring Machine Learning Models in Production: A Comprehensive Guide__ by Christopher Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 + `r emo::ji('memo')` [__What are Azure Machine Learning pipelines?__ by Microsoft](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)

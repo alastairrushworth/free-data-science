@@ -138,8 +138,8 @@ broken link, please file an issue or submit a pull request.
   - 🎓 [**Learn Python** by Ron Reiter](https://www.learnpython.org/).
   - 💡 [**Pandas Cheat Sheet** by the Pandas development
     team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
-  - 📝 [**10 minutes to pandas** by the Pandas development
-    team](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+  - 📝 [**Getting Started in pandas** by the Pandas development
+    team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
 
 ## Advancing with Python
 
@@ -320,9 +320,6 @@ broken link, please file an issue or submit a pull request.
   - 📝 [**Using GitHub Actions for MLOps & Data Science** by Hamel
     Husain, The Github
     Blog](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
-  - 📚 [**Machine Learning Logistics: Model Management in the Real
-    World** by Ted Dunning & Ellen
-    Friedman](https://mapr.com/ebook/machine-learning-logistics/assets/machine-learning-logistics.pdf)
   - 📝 [**Continuous Delivery for Machine Learning: Automating the
     end-to-end lifecycle of Machine Learning applications** by Danilo
     Sato, Arif Wider and Christoph
@@ -367,7 +364,7 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - 🎮 / 🎓 [**Learn Shiny** by
+  - ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -518,7 +515,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - ▶️ [**Structural Equation Modelling** by Erin M.
+  - 🎮 [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   - 📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)
