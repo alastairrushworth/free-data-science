@@ -11,6 +11,7 @@ Free data science resources
   - [Generalised Additive Modelling
     (GAMs)](#generalised-additive-modelling-gams)
   - [Statistics](#statistics)
+  - [Spatial analysis](#spatial-analysis)
   - [Data Science community groups](#data-science-community-groups)
   - [Natural language processing](#natural-language-processing)
   - [Deep Learning](#deep-learning)
@@ -309,6 +310,7 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**Fairness and machine learning: Limitations and Opportunities**
     by Solon Barocas, Moritz Hardt, Arvind
     Narayanan](https://fairmlbook.org/)
+  - 📝 [**Practical Data Ethics** by fast.ai](https://ethics.fast.ai/)
 
 ## MLOps
 
@@ -334,6 +336,20 @@ broken link, please file an issue or submit a pull request.
     Cloud](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
   - 📝 [**Continuous Machine Learning (CML) is CI/CD for Machine Learning
     Projects** by DVC.org](https://cml.dev/)
+  - 📝 [**Data Science Workflows** by David
+    Neuzerling](https://mdneuzerling.com/post/data-science-workflows/)
+  - 📝 [**Monitoring Machine Learning Models in Production A
+    Comprehensive Guide** by Christopher
+    Samiullah](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+
+## ML Platforms
+
+  - 📝 [**The problem with AI developer tools for enterprises (and what
+    IKEA has to do with it)** by Clemens
+    Mewald](https://towardsdatascience.com/the-problem-with-ai-developer-tools-for-enterprises-and-what-ikea-has-to-do-with-it-b26277841661)
+  - 📝 [**5 Reasons Organizations Shouldn’t Build Their Own AI
+    Platforms** by
+    dataiku](https://blog.dataiku.com/5-reasons-organizations-shouldnt-build-their-own-ai-platforms)
 
 ## Style Guides
 
@@ -351,7 +367,7 @@ broken link, please file an issue or submit a pull request.
 
 # Developing interactive applications
 
-  - ▶️ / 🎓 [**Learn Shiny** by
+  - 🎮 / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
   - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -408,6 +424,16 @@ broken link, please file an issue or submit a pull request.
     Gentle](http://mason.gmu.edu/~jgentle/books/MathStat.pdf)
   - 📚 [**Core Statistics** by Simon
     Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
+
+# Spatial analysis
+
+  - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
+    Jannes Muenchow](https://geocompr.robinlovelace.net/)
+  - 📚 [**Spatial Data Science** by Edzer Pebesma and Roger
+    Bivand](https://keen-swartz-3146c4.netlify.app/)
+  - 📚 [**Geospatial Health Data: Modeling and Visualization with R-INLA
+    and Shiny** by Paula
+    Moraga](https://www.paulamoraga.com/book-geospatial/)
 
 # Data Science community groups
 
@@ -475,7 +501,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -492,7 +518,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - 🎮 [**Structural Equation Modelling** by Erin M.
+  - ▶️ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
-  - 📚 [**Geocomputation with R** by Robin Lovelace, Jakub Nowosad,
-    Jannes Muenchow](https://geocompr.robinlovelace.net/)
+  - 📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
+    and Tony Guida](http://www.mlfactor.com/)
