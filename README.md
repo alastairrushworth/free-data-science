@@ -61,7 +61,9 @@ broken link, please file an issue or submit a pull request.
     RStudio.
   - 🎓 [**Teacups, Statistics and Giraffes** by Hasse Walum and Desirée
     de
-    Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/)
+    Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/).
+    Accessible introduction to R and statistics with interactive coding
+    exercises.
   - ▶️ [**A Gentle Introduction to Tidy Statistics in R** by Thomas
     Mock,
     RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).
@@ -71,20 +73,24 @@ broken link, please file an issue or submit a pull request.
     Minnier](https://r-bootcamp.netlify.app/). A tidyverse-centric
     interactive course for data manipulation, graphics, data reshaping,
     and statistical modelling.
-  - 🎓 [**Ready for R** by Ted Laderas](https://ready4r.netlify.app/)
   - 🎓 [**RStudio Primers** by
     RStudio](https://rstudio.cloud/learn/primers/). Interactive
     tutorials from RStudio covering data manipulation, visualisation and
     programming with R.
   - 🎓 [**Swirl: Learn R, in R** by Ismael Fernández, Nick Carchedi and
-    Sean Kross](https://swirlstats.com/)
+    Sean Kross](https://swirlstats.com/). Learn R with interactive
+    courses in the console.
   - 🎓 [**Using R for Data Journalism** by Andrew Ba
-    Tran](http://learn.r-journalism.com/en/introduction/)
+    Tran](http://learn.r-journalism.com/en/introduction/). Video
+    supported intro course with emphasis on wrangling and visualisation.
   - 📚 [**R for Data Science** by Garrett Grolemund and Hadley
-    Wickham](https://r4ds.had.co.nz/)
+    Wickham](https://r4ds.had.co.nz/). Comprehensive guide to using R
+    programming for data science workflows.
   - 📚 [**Introduction to Data Science: Data Analysis and Prediction
     Algorithms with R** by Rafael A.
-    Irizarry](https://rafalab.github.io/dsbook/)
+    Irizarry](https://rafalab.github.io/dsbook/). Introduction to data
+    science focussed topics in R: visualisation, wrangling, prediction
+    and workflow.
   - 💡 [**Base R Cheat Sheet** by Mhairi
     McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
     Quick overview of basic R functionality.
@@ -109,19 +115,32 @@ broken link, please file an issue or submit a pull request.
   - 📚 [**Efficient R programming** by Colin Gillespie and Robin
     Lovelace](https://csgillespie.github.io/efficientR/). Comprehensive
     introduction to writing faster and more efficient R code.
-  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/)
+  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/). Get
+    deeper into R programming fundamentals, object oriented and
+    functional programming concepts and a lot more. A must-read for
+    experience R users\!
   - ▶️ [**RStudio Webinars** by
-    RStudio](https://rstudio.com/resources/webinars/)
+    RStudio](https://rstudio.com/resources/webinars/). Recordings of
+    past RStudio webinars covering a variety of R and data science
+    content.  
   - 📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the R
-    Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf)
+    Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).
+    Introduction to R written by the R-Core team.  
   - 📚 / 🎓 [**Data science for economists** by Grant
-    McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists)
+    McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists).
+    Slides and code examples covering wide ranging introduction to data
+    science in R.
   - 📚 / 🎓 [**Big Data in Economics** by Grant
-    McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510)
+    McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510).
+    Notes cover the use of R with shell, GitHub, web scraping, docker
+    and cloud compute.
   - 📚 [**Handling Strings with R** by Gaston Sanchez and Chitra
-    Venkatesh](https://www.gastonsanchez.com/r4strings/)
+    Venkatesh](https://www.gastonsanchez.com/r4strings/). Detailed
+    introduction to strings, manipulation, regex and text wrangling.
   - ▶️ [**R Package Development** by John
-    Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM)
+    Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM).
+    6-part video series on the basics of R package development, testing
+    and building a `pkgdown` site.
 
 ## Getting started with Python
 
