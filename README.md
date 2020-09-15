@@ -52,113 +52,133 @@ broken link, please file an issue or submit a pull request.
 ## Getting started with R
 
   - 📚 [**Modern Dive: Getting Started** by Chester Ismay and Albert Y.
-    Kim](https://moderndive.netlify.app/1-getting-started.html). The
-    very first of first steps. Install R & RStudio and what to do after
-    that.
+    Kim](https://moderndive.netlify.app/1-getting-started.html).
+      - The very first of first steps. Install R & RStudio and what to
+        do after that.
   - 📝 [**RYouWithMe: Basic Basics** by Lisa Williams, RLadies
     Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).
-    Tour of RStudio, installing and using packages and getting data into
-    RStudio.
+      - Tour of RStudio, installing and using packages and getting data
+        into RStudio.
   - 🎓 [**Teacups, Statistics and Giraffes** by Hasse Walum and Desirée
     de
     Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/).
-    Accessible introduction to R and statistics with interactive coding
-    exercises.
+      - Accessible introduction to R and statistics with interactive
+        coding exercises.
   - ▶️ [**A Gentle Introduction to Tidy Statistics in R** by Thomas
     Mock,
     RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).
-    Webinar covering exploratory data analysis, tidyverse, statistical
-    testing and plotting.  
+      - Webinar covering exploratory data analysis, tidyverse,
+        statistical testing and plotting.  
   - 🎓 [**The R Bootcamp** by Ted Laderas and Jessica
-    Minnier](https://r-bootcamp.netlify.app/). A tidyverse-centric
-    interactive course for data manipulation, graphics, data reshaping,
-    and statistical modelling.
+    Minnier](https://r-bootcamp.netlify.app/).
+      - A tidyverse-centric interactive course for data manipulation,
+        graphics, data reshaping, and statistical modelling.
   - 🎓 [**RStudio Primers** by
-    RStudio](https://rstudio.cloud/learn/primers/). Interactive
-    tutorials from RStudio covering data manipulation, visualisation and
-    programming with R.
+    RStudio](https://rstudio.cloud/learn/primers/).
+      - Interactive tutorials from RStudio covering data manipulation,
+        visualisation and programming with R.
   - 🎓 [**Swirl: Learn R, in R** by Ismael Fernández, Nick Carchedi and
-    Sean Kross](https://swirlstats.com/). Learn R with interactive
-    courses in the console.
+    Sean Kross](https://swirlstats.com/).
+      - Learn R with interactive courses in the console.
   - 🎓 [**Using R for Data Journalism** by Andrew Ba
-    Tran](http://learn.r-journalism.com/en/introduction/). Video
-    supported intro course with emphasis on wrangling and visualisation.
+    Tran](http://learn.r-journalism.com/en/introduction/).
+      - Video supported intro course with emphasis on wrangling and
+        visualisation.
   - 📚 [**R for Data Science** by Garrett Grolemund and Hadley
-    Wickham](https://r4ds.had.co.nz/). Comprehensive guide to using R
-    programming for data science workflows.
+    Wickham](https://r4ds.had.co.nz/).
+      - Comprehensive guide to using R programming for data science
+        workflows.
   - 📚 [**Introduction to Data Science: Data Analysis and Prediction
     Algorithms with R** by Rafael A.
-    Irizarry](https://rafalab.github.io/dsbook/). Introduction to data
-    science focussed topics in R: visualisation, wrangling, prediction
-    and workflow.
+    Irizarry](https://rafalab.github.io/dsbook/).
+      - Introduction to data science focussed topics in R:
+        visualisation, wrangling, prediction and workflow.
   - 💡 [**Base R Cheat Sheet** by Mhairi
     McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
-    Quick overview of basic R functionality.
+      - Quick overview of basic R functionality.
 
 ## Advancing with R
 
   - 📚 [**Tidynomicon - A Brief Introduction to R for People Who Count
-    From Zero** by Greg Wilson](http://tidynomicon.tech/). An
-    introduction to R for Python users.
+    From Zero** by Greg Wilson](http://tidynomicon.tech/).
+      - An introduction to R for Python users.
   - 📚 [**Hands-on Programming with R** by Garrett
-    Grolemund](https://rstudio-education.github.io/hopr/). A friendly
-    introduction to the R language for non-programmers.
+    Grolemund](https://rstudio-education.github.io/hopr/).
+      - A friendly introduction to the R language for non-programmers.
   - 📚 [**R Cookbook: Proven Recipes for Data Analysis, Statistics, and
     Graphics** by James (JD) Long, Paul Teetor](https://rc2e.com/).
-    Recipes and worked examples for performing core tasks in R.
+      - Recipes and worked examples for performing core tasks in R.
   - 📝 [**R package primer: a minimal tutorial** by Karl
-    Broman](https://kbroman.org/pkg_primer/). Overview of R packages
-    development.
+    Broman](https://kbroman.org/pkg_primer/).
+      - Overview of R packages development.
   - 📚 [**R Packages** by Hadley Wickham and Jennifer
-    Bryan](https://r-pkgs.org/). Comprehensive guide to how R packages
-    work and how to write your own.
+    Bryan](https://r-pkgs.org/).
+      - Comprehensive guide to how R packages work and how to write your
+        own.
   - 📚 [**Efficient R programming** by Colin Gillespie and Robin
-    Lovelace](https://csgillespie.github.io/efficientR/). Comprehensive
-    introduction to writing faster and more efficient R code.
-  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/). Get
-    deeper into R programming fundamentals, object oriented and
-    functional programming concepts and a lot more. A must-read for
-    experience R users\!
+    Lovelace](https://csgillespie.github.io/efficientR/).
+      - Comprehensive introduction to writing faster and more efficient
+        R code.
+  - 📚 [**Advanced R** by Hadley Wickham](https://adv-r.hadley.nz/).
+      - Get deeper into R programming fundamentals, object oriented and
+        functional programming concepts and a lot more. A must-read for
+        experience R users\!
   - ▶️ [**RStudio Webinars** by
-    RStudio](https://rstudio.com/resources/webinars/). Recordings of
-    past RStudio webinars covering a variety of R and data science
-    content.  
+    RStudio](https://rstudio.com/resources/webinars/).
+      - Recordings of past RStudio webinars covering a variety of R and
+        data science content.  
   - 📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the R
     Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).
-    Introduction to R written by the R-Core team.  
+      - Introduction to R written by the R-Core team.  
   - 📚 / 🎓 [**Data science for economists** by Grant
     McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists).
-    Slides and code examples covering wide ranging introduction to data
-    science in R.
+      - Slides and code examples covering wide ranging introduction to
+        data science in R.
   - 📚 / 🎓 [**Big Data in Economics** by Grant
     McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510).
-    Notes cover the use of R with shell, GitHub, web scraping, docker
-    and cloud compute.
+      - Notes cover the use of R with shell, GitHub, web scraping,
+        docker and cloud compute.
   - 📚 [**Handling Strings with R** by Gaston Sanchez and Chitra
-    Venkatesh](https://www.gastonsanchez.com/r4strings/). Detailed
-    introduction to strings, manipulation, regex and text wrangling.
+    Venkatesh](https://www.gastonsanchez.com/r4strings/).
+      - Detailed introduction to strings, manipulation, regex and text
+        wrangling.
   - ▶️ [**R Package Development** by John
     Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM).
-    6-part video series on the basics of R package development, testing
-    and building a `pkgdown` site.
+      - 6-part video series on the basics of R package development,
+        testing and building a `pkgdown` site.
 
 ## Getting started with Python
 
   - 📝 [**Install Python and Anaconda** by
     Anaconda](https://docs.anaconda.com/anaconda/install/).
-  - 🎓 [**Free interactive introduction to Python and
-    pandas**](https://python-course.nixd.dk/).
+      - The most commonly used package and environment manager for
+        Python and how to install it.
+  - 🎓 [**Free interactive introduction to Python and pandas** by
+    ?](https://python-course.nixd.dk/).
+      - Beginners introduction to Python, pandas and data analysis via
+        an interactive course.
   - 📝 [**Quick reference to Python in a single script and notebook** by
     Kevin Markham](https://www.dataschool.io/python-quick-reference/).
-  - 📝 [**An Introduction to Python and Programming** by Alexander
+      - Comprehensive reference guides for Python programming via
+        notebooks and script examples.
+  - 🎓 / ▶️ [**An Introduction to Python and Programming** by Alexander
     Hess](https://github.com/webartifex/intro-to-python).
+      - Python course for aspiring data scientists via notebooks, videos
+        and exercises.
   - 📚[**A Whirlwind Tour of Python** by Jake
-    VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
+    VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html).
+      - A fast-paced introduction to essential features of the Python
+        language for those already familiar with another language.
   - 🎓 [**Learn Python** by Ron Reiter](https://www.learnpython.org/).
+      - Interactive online courses and tutorials for a wide range of
+        Python topics.
   - 💡 [**Pandas Cheat Sheet** by the Pandas development
     team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
+      - 2-page quick reference to the most commonly used `pandas`
+        functions.
   - 📝 [**Getting Started in pandas** by the Pandas development
-    team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
+    team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started).
+  - Tutorials and quick start guides from the `pandas` development team.
 
 ## Advancing with Python
 
@@ -517,7 +537,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
   - 🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
-  - 📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+  - 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - 📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -534,7 +554,7 @@ broken link, please file an issue or submit a pull request.
 
 # Special Topics
 
-  - 🎮 [**Structural Equation Modelling** by Erin M.
+  - ⏯ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   - 📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)

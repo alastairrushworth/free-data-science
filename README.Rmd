@@ -35,52 +35,84 @@ __Key to resource types__
 
 ## Getting started with R
 
-+ `r emo::ji('books')` [__Modern Dive: Getting Started__ by Chester Ismay and Albert Y. Kim](https://moderndive.netlify.app/1-getting-started.html).  The very first of first steps.  Install R & RStudio and what to do after that.
-+ `r emo::ji('memo')` [__RYouWithMe: Basic Basics__ by Lisa Williams, RLadies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).  Tour of RStudio, installing and using packages and getting data into RStudio.
-+ `r emo::ji('college')` [__Teacups, Statistics and Giraffes__ by Hasse Walum and Desirée de Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/).  Accessible introduction to R and statistics with interactive coding exercises.
-+ `r emo::ji('play button')` [__A Gentle Introduction to Tidy Statistics in R__ by Thomas Mock, RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).  Webinar covering exploratory data analysis, tidyverse, statistical testing and plotting.  
-+ `r emo::ji('college')` [__The R Bootcamp__ by Ted Laderas and Jessica Minnier](https://r-bootcamp.netlify.app/).  A tidyverse-centric interactive course for data manipulation, graphics, data reshaping, and statistical modelling.
-+ `r emo::ji('college')` [__RStudio Primers__ by RStudio](https://rstudio.cloud/learn/primers/).  Interactive tutorials from RStudio covering data manipulation, visualisation and programming with R.
-+ `r emo::ji('college')` [__Swirl: Learn R, in R__ by Ismael Fernández, Nick Carchedi and Sean Kross](https://swirlstats.com/).  Learn R with interactive courses in the console.
-+ `r emo::ji('college')` [__Using R for Data Journalism__ by Andrew Ba Tran](http://learn.r-journalism.com/en/introduction/).  Video supported intro course with emphasis on wrangling and visualisation.
-+ `r emo::ji('books')` [__R for Data Science__ by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/).  Comprehensive guide to using R programming for data science workflows.
-+ `r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/).  Introduction to data science focussed topics in R: visualisation, wrangling, prediction and workflow.
-+ `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  Quick overview of basic R functionality.
++ `r emo::ji('books')` [__Modern Dive: Getting Started__ by Chester Ismay and Albert Y. Kim](https://moderndive.netlify.app/1-getting-started.html).  
+  + The very first of first steps.  Install R & RStudio and what to do after that.
++ `r emo::ji('memo')` [__RYouWithMe: Basic Basics__ by Lisa Williams, RLadies Sydney](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-0/).  
+  + Tour of RStudio, installing and using packages and getting data into RStudio.
++ `r emo::ji('college')` [__Teacups, Statistics and Giraffes__ by Hasse Walum and Desirée de Leon](https://tinystats.github.io/teacups-giraffes-and-statistics/).  
+  + Accessible introduction to R and statistics with interactive coding exercises.
++ `r emo::ji('play button')` [__A Gentle Introduction to Tidy Statistics in R__ by Thomas Mock, RStudio](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/).  
+  + Webinar covering exploratory data analysis, tidyverse, statistical testing and plotting.  
++ `r emo::ji('college')` [__The R Bootcamp__ by Ted Laderas and Jessica Minnier](https://r-bootcamp.netlify.app/).  
+  + A tidyverse-centric interactive course for data manipulation, graphics, data reshaping, and statistical modelling.
++ `r emo::ji('college')` [__RStudio Primers__ by RStudio](https://rstudio.cloud/learn/primers/).  
+  + Interactive tutorials from RStudio covering data manipulation, visualisation and programming with R.
++ `r emo::ji('college')` [__Swirl: Learn R, in R__ by Ismael Fernández, Nick Carchedi and Sean Kross](https://swirlstats.com/).  
+  + Learn R with interactive courses in the console.
++ `r emo::ji('college')` [__Using R for Data Journalism__ by Andrew Ba Tran](http://learn.r-journalism.com/en/introduction/).  
+  + Video supported intro course with emphasis on wrangling and visualisation.
++ `r emo::ji('books')` [__R for Data Science__ by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/).  
+  + Comprehensive guide to using R programming for data science workflows.
++ `r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/).  
+  + Introduction to data science focussed topics in R: visualisation, wrangling, prediction and workflow.
++ `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  
+  + Quick overview of basic R functionality.
 
 
 ## Advancing with R
 
-+ `r emo::ji('books')` [__Tidynomicon - A Brief Introduction to R for People Who Count From Zero__ by Greg Wilson](http://tidynomicon.tech/).  An introduction to R for Python users.
-+ `r emo::ji('books')` [__Hands-on Programming with R__ by Garrett Grolemund](https://rstudio-education.github.io/hopr/).  A friendly introduction to the R language for non-programmers.
-+ `r emo::ji('books')` [__R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics__ by James (JD) Long, Paul Teetor](https://rc2e.com/).  Recipes and worked examples for performing core tasks in R.
-+ `r emo::ji('memo')` [__R package primer: a minimal tutorial__ by Karl Broman](https://kbroman.org/pkg_primer/).  Overview of R packages development.
-+ `r emo::ji('books')` [__R Packages__ by Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/).  Comprehensive guide to how R packages work and how to write your own.
-+ `r emo::ji('books')` [__Efficient R programming__ by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/).  Comprehensive introduction to writing faster and more efficient R code.
-+ `r emo::ji('books')` [__Advanced R__ by Hadley Wickham](https://adv-r.hadley.nz/).  Get deeper into R programming fundamentals, object oriented and functional programming concepts and a lot more.  A must-read for experience R users!
-+ `r emo::ji('play button')` [__RStudio Webinars__ by RStudio](https://rstudio.com/resources/webinars/).  Recordings of past RStudio webinars covering a variety of R and data science content.  
-+ `r emo::ji('books')` [__An Introduction to R__ by W. N. Venables, D. M. Smith and the R Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).  Introduction to R written by the R-Core team.  
-+ `r emo::ji('books')` / `r emo::ji('college')` [__Data science for economists__ by Grant McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists).  Slides and code examples covering wide ranging introduction to data science in R.
-+ `r emo::ji('books')` / `r emo::ji('college')` [__Big Data in Economics__ by Grant McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510).  Notes cover the use of R with shell, GitHub, web scraping, docker and cloud compute.
-+ `r emo::ji('books')` [__Handling Strings with R__ by Gaston Sanchez and Chitra Venkatesh](https://www.gastonsanchez.com/r4strings/).  Detailed introduction to strings, manipulation, regex and text wrangling.
-+ `r emo::ji('play button')` [__R Package Development__ by John Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM).  6-part video series on the basics of R package development, testing and building a `pkgdown` site.
++ `r emo::ji('books')` [__Tidynomicon - A Brief Introduction to R for People Who Count From Zero__ by Greg Wilson](http://tidynomicon.tech/).  
+  + An introduction to R for Python users.
++ `r emo::ji('books')` [__Hands-on Programming with R__ by Garrett Grolemund](https://rstudio-education.github.io/hopr/).  
+  + A friendly introduction to the R language for non-programmers.
++ `r emo::ji('books')` [__R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics__ by James (JD) Long, Paul Teetor](https://rc2e.com/).  
+  + Recipes and worked examples for performing core tasks in R.
++ `r emo::ji('memo')` [__R package primer: a minimal tutorial__ by Karl Broman](https://kbroman.org/pkg_primer/).  
+  + Overview of R packages development.
++ `r emo::ji('books')` [__R Packages__ by Hadley Wickham and Jennifer Bryan](https://r-pkgs.org/).  
+  + Comprehensive guide to how R packages work and how to write your own.
++ `r emo::ji('books')` [__Efficient R programming__ by Colin Gillespie and Robin Lovelace](https://csgillespie.github.io/efficientR/).  
+  + Comprehensive introduction to writing faster and more efficient R code.
++ `r emo::ji('books')` [__Advanced R__ by Hadley Wickham](https://adv-r.hadley.nz/).  
+  + Get deeper into R programming fundamentals, object oriented and functional programming concepts and a lot more.  A must-read for experience R users!
++ `r emo::ji('play button')` [__RStudio Webinars__ by RStudio](https://rstudio.com/resources/webinars/).  
+  + Recordings of past RStudio webinars covering a variety of R and data science content.  
++ `r emo::ji('books')` [__An Introduction to R__ by W. N. Venables, D. M. Smith and the R Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).  
+  + Introduction to R written by the R-Core team.  
++ `r emo::ji('books')` / `r emo::ji('college')` [__Data science for economists__ by Grant McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists).  
+  + Slides and code examples covering wide ranging introduction to data science in R.
++ `r emo::ji('books')` / `r emo::ji('college')` [__Big Data in Economics__ by Grant McDermott](https://github.com/uo-ec510-2020-spring/lectures#big-data-in-economics-ec-410510).  
+  + Notes cover the use of R with shell, GitHub, web scraping, docker and cloud compute.
++ `r emo::ji('books')` [__Handling Strings with R__ by Gaston Sanchez and Chitra Venkatesh](https://www.gastonsanchez.com/r4strings/).  
+  + Detailed introduction to strings, manipulation, regex and text wrangling.
++ `r emo::ji('play button')` [__R Package Development__ by John Muschelli](https://www.youtube.com/playlist?list=PLk3B5c8iCV-T4LM0mwEyWIunIunLyEjqM).  
+  + 6-part video series on the basics of R package development, testing and building a `pkgdown` site.
 
 ## Getting started with Python
 
 + `r emo::ji('memo')` [__Install Python and Anaconda__ by Anaconda](https://docs.anaconda.com/anaconda/install/).
-+ `r emo::ji('college')` [__Free interactive introduction to Python and pandas__](https://python-course.nixd.dk/).
+  + The most commonly used package and environment manager for Python and how to install it.
++ `r emo::ji('college')` [__Free interactive introduction to Python and pandas__ by ?](https://python-course.nixd.dk/).  
+  + Beginners introduction to Python, pandas and data analysis via an interactive course.
 + `r emo::ji('memo')` [__Quick reference to Python in a single script and notebook__ by Kevin Markham](https://www.dataschool.io/python-quick-reference/).
-+ `r emo::ji('memo')` [__An Introduction to Python and Programming__ by Alexander Hess](https://github.com/webartifex/intro-to-python).
-+ `r emo::ji('books')`[__A Whirlwind Tour of Python__ by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html)
+  + Comprehensive reference guides for Python programming via notebooks and script examples.
++ `r emo::ji('college')` / `r emo::ji('play button')` [__An Introduction to Python and Programming__ by Alexander Hess](https://github.com/webartifex/intro-to-python).
+  + Python course for aspiring data scientists via notebooks, videos and exercises.
++ `r emo::ji('books')`[__A Whirlwind Tour of Python__ by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/index.html).
+  + A fast-paced introduction to essential features of the Python language for those already familiar with another language.
 + `r emo::ji('college')`  [__Learn Python__ by Ron Reiter](https://www.learnpython.org/).
+  + Interactive online courses and tutorials for a wide range of Python topics.
 + `r emo::ji('bulb')` [__Pandas Cheat Sheet__ by the Pandas development team](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf).
-+  `r emo::ji('memo')` [__Getting Started in pandas__ by the Pandas development team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
-
+  + 2-page quick reference to the most commonly used `pandas` functions. 
++  `r emo::ji('memo')` [__Getting Started in pandas__ by the Pandas development team](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started).
+  + Tutorials and quick start guides from the `pandas` development team.
 
 ## Advancing with Python
 
 + `r emo::ji('books')` [__Python Data Science Handbook__ by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/).
 + `r emo::ji('books')` [__Python for Everybody: Exploring Data Using Python 3__ by Charles R. Severance](https://www.py4e.com/book.php)
 + `r emo::ji('memo')` [__Python Packaging User Guide__ by the Python Packaging Authority (PyPA)](https://packaging.python.org/)
+
 
 ## Shell
 

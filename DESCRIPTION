@@ -1,0 +1,13 @@
+Package: freedatascience
+Title: List of free data science resources
+Version: 0.0.1
+Author: Alastair Rushworth
+Maintainer: Alastair Rushworth <alastairmrushworth@gmail.com>
+Description: List of free data science resources
+Encoding: UTF-8
+Language: en_GB
+LazyData: true
+URL: https://github.com/alastairrushworth/free-data-science/
+BugReports: https://github.com/alastairrushworth/free-data-science/issues
+RoxygenNote: 7.1.1
+Suggests: testthat
