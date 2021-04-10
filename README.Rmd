@@ -1,12 +1,8 @@
 ---
 title: "Free data science resources"
 output:
-  github_document:
-    toc: true
-    toc_depth: 1
+  github_document
 ---
-  
-`r emo::ji('construction')`  This page is a work in progress!
 
 # Overview
 
@@ -116,10 +112,9 @@ __Key to resource types__
 
 ## Shell
 
-+ `r emo::ji('college')` [__Learn Shell__ by Ron Reiter](https://www.learnshell.org/).
-+ `r emo::ji('college')` [__The Unix Shell__ by Software Carpentry](http://swcarpentry.github.io/shell-novice/)
-+ `r emo::ji('memo')` [__The Beginner’s Guide to Shell Scripting: The Basics__ by Yatri Trivedi](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/)
-+ `r emo::ji('memo')` [__Beginners/BashScripting__ by Ubuntu Documentation](https://help.ubuntu.com/community/Beginners/BashScripting)
++ `r emo::ji('college')` [__Learn Shell__ by Ron Reiter](https://www.learnshell.org/).  A browser-based interactive Shell tutorial covering basics through to advanced topics.
++ `r emo::ji('college')` [__The Unix Shell__ by Software Carpentry](http://swcarpentry.github.io/shell-novice/).  Tutorials and examples of how to use the unix shell.
++ `r emo::ji('memo')` [__Beginners/BashScripting__ by Ubuntu Documentation](https://help.ubuntu.com/community/Beginners/BashScripting).  Introduction to using the shell for OS navigation and scripting.
 + `r emo::ji('play button')` [__How to Write a Shell Script using Bash Shell in Ubuntu__ by FS Tutorial](https://www.youtube.com/watch?v=He-5BpUGSag)
 + `r emo::ji('college')` / `r emo::ji('play button')` [__The Missing Semester of Your CS Education__ by Anish Athalye, Jon Gjengset and Jose Javier Gonzalez Ortiz](https://missing.csail.mit.edu/)
 + `r emo::ji('memo')` [__The Art of the Command Line__ by Joshua Levy](https://github.com/jlevy/the-art-of-command-line)
@@ -294,13 +289,18 @@ __Key to resource types__
 
 # Data Science community groups
 
+## Python groups
+
 + `r emo::ji('users')` [__PyData Meetup Groups__](https://www.meetup.com/pro/pydata/)
 + `r emo::ji('users')` [__PyLadies__ by PyLadies](https://www.pyladies.com/)
+
+## R groups
+
 + `r emo::ji('users')` [__Directory of R User Groups__ by Jumping Rivers](https://jumpingrivers.github.io/meetingsR/r-user-groups.html)
-+ `r emo::ji('users')` [__Complete list of R-Ladies groups__ by R-Ladies Global](https://benubah.github.io/r-community-explorer/rladies.html)
-+ `r emo::ji('users')` [__R for Data Science Online Learning Community__](https://www.rfordatasci.com/)
-+ `r emo::ji('users')` [__Tidy Tuesday__ A weekly podcast and community activity brought to you by the R4DS Online Learning Community](https://www.tidytuesday.com/)
-+ `r emo::ji('users')`[__SatRdays__ SatRdays are R-focused conferences that are held on Saturdays](https://satrdays.org/)
++ `r emo::ji('users')` [__Complete list of R-Ladies groups__ by R-Ladies Global](https://benubah.github.io/r-community-explorer/rladies.html).  
++ `r emo::ji('users')` [__R for Data Science Online Learning Community__](https://www.rfordatasci.com/). The R4DS Online Learning Community is a community of R learners at all skill levels working together to improve their skills.
++ `r emo::ji('users')` [__Tidy Tuesday__](https://www.tidytuesday.com/). A weekly podcast and community activity brought to you by the R4DS Online Learning Community.
++ `r emo::ji('users')`[__SatRdays__ SatRdays](https://satrdays.org/).  R-focused conferences that are held on Saturdays.
 
 
 # Natural language processing
