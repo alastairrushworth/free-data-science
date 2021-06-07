@@ -122,16 +122,24 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Beginners/BashScripting__ by Ubuntu Documentation](https://help.ubuntu.com/community/Beginners/BashScripting).
   + Introduction to using the shell for OS navigation and scripting.
 + `r emo::ji('play button')` [__How to Write a Shell Script using Bash Shell in Ubuntu__ by FS Tutorial](https://www.youtube.com/watch?v=He-5BpUGSag)
-+ `r emo::ji('college')` / `r emo::ji('play button')` [__The Missing Semester of Your CS Education__ by Anish Athalye, Jon Gjengset and Jose Javier Gonzalez Ortiz](https://missing.csail.mit.edu/)
+  + Short video showing how to write a first shell script using vim.
++ `r emo::ji('college')` / `r emo::ji('play button')` [__The Missing Semester of Your CS Education__ by Anish Athalye, Jon Gjengset and Jose Javier Gonzalez Ortiz](https://missing.csail.mit.edu/) 
+  + Videos and notes on using shell and version control.
 + `r emo::ji('memo')` [__The Art of the Command Line__ by Joshua Levy](https://github.com/jlevy/the-art-of-command-line)
+  + Useful list of bash commands and explainers, all laid out on a single page!
 + `r emo::ji('memo')` [__ExplainShell.com__ by Idan Kamara](https://explainshell.com/)
+  + Hand utility - type in a shell command and get an explanation of what it does.
 
 ### Regular expressions
 
 + `r emo::ji('college')` [__RegexOne: Learn Regular Expressions with simple, interactive exercises.__ by RegexOne](https://regexone.com/)
+  + Simple, browser based course with interactive exercises.
 + `r emo::ji('memo')` [__Regular Expressions 101: Online Regular Expression Tester and Debugger__ by Firas Dib](https://regex101.com/)
+  + Very handy tool to test regular expressions against test strings. 
 + `r emo::ji('bulb')` [__Data Science Cheat Sheet: Python Regular Expressions__ by Dataquest](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf)
+  + PDF cheatsheet for standard regular expression syntax.
 + `r emo::ji('bulb')`[__Regular Expressions Cheat Sheet__ by Dave Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
+  + PDF cheatsheet for standard regular expression syntax.
 
 ### Git 
 
