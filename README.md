@@ -189,23 +189,34 @@ broken link, please file an issue or submit a pull request.
     -   Introduction to using the shell for OS navigation and scripting.
 -   ▶️ [**How to Write a Shell Script using Bash Shell in Ubuntu** by FS
     Tutorial](https://www.youtube.com/watch?v=He-5BpUGSag)
+    -   Short video showing how to write a first shell script using vim.
 -   🎓 / ▶️ [**The Missing Semester of Your CS Education** by Anish
     Athalye, Jon Gjengset and Jose Javier Gonzalez
     Ortiz](https://missing.csail.mit.edu/)
+    -   Videos and notes on using shell and version control.
 -   📝 [**The Art of the Command Line** by Joshua
     Levy](https://github.com/jlevy/the-art-of-command-line)
+    -   Useful list of bash commands and explainers, all laid out on a
+        single page!
 -   📝 [**ExplainShell.com** by Idan Kamara](https://explainshell.com/)
+    -   Hand utility - type in a shell command and get an explanation of
+        what it does.
 
 ### Regular expressions
 
 -   🎓 [**RegexOne: Learn Regular Expressions with simple, interactive
     exercises.** by RegexOne](https://regexone.com/)
+    -   Simple, browser based course with interactive exercises.
 -   📝 [**Regular Expressions 101: Online Regular Expression Tester and
     Debugger** by Firas Dib](https://regex101.com/)
+    -   Very handy tool to test regular expressions against test
+        strings.
 -   💡 [**Data Science Cheat Sheet: Python Regular Expressions** by
     Dataquest](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf)
+    -   PDF cheatsheet for standard regular expression syntax.
 -   💡[**Regular Expressions Cheat Sheet** by Dave
     Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
+    -   PDF cheatsheet for standard regular expression syntax.
 
 ### Git
 
@@ -392,7 +403,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   ▶️ / 🎓 [**Learn Shiny** by
+-   ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -533,7 +544,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
 -   🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
--   📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
+-   📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 -   📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -550,7 +561,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Special Topics
 
--   ⏯ [**Structural Equation Modelling** by Erin M.
+-   🎮 [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 -   📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)
