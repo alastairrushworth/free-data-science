@@ -143,11 +143,18 @@ __Key to resource types__
 
 ### Git 
 
-+ `r emo::ji('memo')` [__Getting started with Git and GitHub: the complete beginner’s guide__ by Anne Bonner](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
++ `r emo::ji('books')` [__Happy Git and GitHub for the useR__ by Jenny Bryan, the STAT 545 TAs and Jim Hester](https://happygitwithr.com/) 
+  + If you are an R user and new to git, this is currently the best place to start.
 + `r emo::ji('memo')` [__An introduction to Git and how to use it with RStudio__ by François Michonneau](https://r-bio.github.io/intro-git-rstudio/)
+  + Conceptual overview of what git is and how to use it, with particular emphasis on Github and its use with RStudio.
 + `r emo::ji('bulb')` [__Git Cheat Sheet__ by GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+  + A list of the main git shell commands.
 + `r emo::ji('books')` [__Pro Git__ by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
-+ `r emo::ji('books')` [__Happy Git and GitHub for the useR__ by Jenny Bryan, the STAT 545 TAs, Jim Hester](https://happygitwithr.com/) 
+  + Free ebook covering more advanced usage of git - good once you're confident with the basics.
++ `r emo::ji('memo')` [__Oh Shit Git!__ by Katie Sylor-Miller](https://ohshitgit.com)
+  + Light-hearted troubleshooting guide for when things inevitably go wrong!
++ `r emo::ji('memo')` [__Step-by-step guide to contributing on GitHub__ by Kevin Markham](https://www.dataschool.io/how-to-contribute-on-github/)
+  + Detailed guide on how to contribute to open source software projects using git and Github.
 
 ### Spark 
 

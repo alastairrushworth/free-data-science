@@ -220,17 +220,28 @@ broken link, please file an issue or submit a pull request.
 
 ### Git
 
--   📝 [**Getting started with Git and GitHub: the complete beginner’s
-    guide** by Anne
-    Bonner](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+-   📚 [**Happy Git and GitHub for the useR** by Jenny Bryan, the STAT
+    545 TAs and Jim Hester](https://happygitwithr.com/)
+    -   If you are an R user and new to git, this is currently the best
+        place to start.
 -   📝 [**An introduction to Git and how to use it with RStudio** by
     François Michonneau](https://r-bio.github.io/intro-git-rstudio/)
+    -   Conceptual overview of what git is and how to use it, with
+        particular emphasis on Github and its use with RStudio.
 -   💡 [**Git Cheat Sheet** by
     GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+    -   A list of the main git shell commands.
 -   📚 [**Pro Git** by Scott Chacon and Ben
     Straub](https://git-scm.com/book/en/v2)
--   📚 [**Happy Git and GitHub for the useR** by Jenny Bryan, the STAT
-    545 TAs, Jim Hester](https://happygitwithr.com/)
+    -   Free ebook covering more advanced usage of git - good once
+        you’re confident with the basics.
+-   📝 [**Oh Shit Git!** by Katie Sylor-Miller](https://ohshitgit.com)
+    -   Light-hearted troubleshooting guide for when things inevitably
+        go wrong!
+-   📝 [**Step-by-step guide to contributing on GitHub** by Kevin
+    Markham](https://www.dataschool.io/how-to-contribute-on-github/)
+    -   Detailed guide on how to contribute to open source software
+        projects using git and Github.
 
 ### Spark
 
@@ -403,7 +414,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   ⏯ / 🎓 [**Learn Shiny** by
+-   ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -544,7 +555,7 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
 -   🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
--   📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+-   📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 -   📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
