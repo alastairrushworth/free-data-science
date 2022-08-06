@@ -200,8 +200,8 @@ broken link, please file an issue or submit a pull request.
     -   Useful list of bash commands and explainers, all laid out on a
         single page!
 -   📝 [**ExplainShell.com** by Idan Kamara](https://explainshell.com/)
-    -   Hand utility - type in a shell command and get an explanation of
-        what it does.
+    -   Handy utility - type in a shell command and get an explanation
+        of what it does.
 
 ### Regular expressions
 
@@ -254,12 +254,6 @@ broken link, please file an issue or submit a pull request.
     Nathan Stephens](https://www.youtube.com/watch?v=oItFZfzqqMY)
 -   📚[**A Gentle Introduction to Spark** by
     DataBricks](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/book/databricks/spark-intro.pdf)
-
-### Javascript
-
--   🎓 [**Learn JS** by Ron Reiter](https://www.learn-js.org/)
--   📚 [**JavaScript for Data Science** by Maya Gans, Toby Hodges, and
-    Greg Wilson](http://js4ds.org/)
 
 ### SQL
 
@@ -344,7 +338,7 @@ broken link, please file an issue or submit a pull request.
     Silge.](https://supervised-ml-course.netlify.app/)
     -   Easy-to-follow in-browser beginner’s guide to using R’s
         tidymodels for practical ML.
--   📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+-   📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
     -   Bitesize study videos and python notebooks by Justin Markham’s
         Data School.
@@ -379,8 +373,6 @@ broken link, please file an issue or submit a pull request.
 
 ### Hiring and building teams
 
--   📝 [**Hiring a data scientist** by Mikhail Popov,
-    Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
 -   📚 [**The Care and Feeding of Data Scientists: How to Build, Manage
     and Retain a Data Science Team** by Michelangelo D’Agostino and
     Katie
@@ -389,6 +381,17 @@ broken link, please file an issue or submit a pull request.
     Science Manager** on Linear Digressions podcast by Katie Malone and
     Ben
     Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
+-   📝 [**Models for integrating data science teams within companies**
+    by Pardis
+    Noorzad](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
+-   🎧 [**Building Effective Data Science Teams** with Kobi Abayomi,
+    Gregory Berg, Elaine McVey, Jacqueline Nolis, Nasir Uddin and Julia
+    Silge](https://www.rstudio.com/resources/webinars/building-effective-data-science-teams/)
+-   📝 [**Building a data team at a mid-stage startup: a short story**
+    by Erik
+    Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+-   📝 [**Hiring a data scientist** by Mikhail Popov,
+    Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
 
 ### Agile data science
 
@@ -475,7 +478,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   ⏯ / 🎓 [**Learn Shiny** by
+-   ▶️ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -487,6 +490,8 @@ broken link, please file an issue or submit a pull request.
 -   📝 [**Leaflet for R** by
     RStudio](https://rstudio.github.io/leaflet/)
 -   📝 [**Dash User Guide** by Plotly](https://dash.plotly.com)
+-   📝 [**Getting Started with Streamlit** by
+    streamlit](https://docs.streamlit.io/library/get-started)
 
 ## Visualisation
 
@@ -589,14 +594,11 @@ broken link, please file an issue or submit a pull request.
 -   ▶️ [**BERT Research Series** by Chris
     McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
-## Deep Learning
-
--   📝 [**PyTorch Tutorials and Recipes** by
-    PyTorch](https://pytorch.org/tutorials/)
-
 ## Special Topics
 
--   🎮 [**Structural Equation Modelling** by Erin M.
+-   ⏯ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 -   📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)
+-   📝 [**PyTorch Tutorials and Recipes** by
+    PyTorch](https://pytorch.org/tutorials/)
