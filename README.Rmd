@@ -50,8 +50,8 @@ __Key to resource types__
 + `r emo::ji('books')` [__R for Data Science__ by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/).  
   + Comprehensive guide to using R programming for data science workflows.
 + `r emo::ji('books')` [__Introduction to Data Science: Data Analysis and Prediction Algorithms with R__ by Rafael A. Irizarry](https://rafalab.github.io/dsbook/).  
-  + Introduction to data science focussed topics in R: visualisation, wrangling, prediction and workflow.
-+ `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).  
+  + Introduction to data science focused topics in R: visualisation, wrangling, prediction and workflow.
++ `r emo::ji('bulb')` [__Base R Cheat Sheet__ by  Mhairi McNeill](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf).  
   + Quick overview of basic R functionality.
 
 
@@ -178,7 +178,7 @@ __Key to resource types__
 
 ### Docker
 + `r emo::ji('memo')` [__An Introduction to Docker for R Users__ by Colin Fay](https://colinfay.me/docker-r-reproducibility/)
-+ `r emo::ji('college')` [__R Docker tutorial__ by ROpenSciLabs](https://ropenscilabs.github.io/r-docker-tutorial/)
++ `r emo::ji('college')` [__R Docker tutorial__ by Jemma Stachelek](https://jsta.github.io/r-docker-tutorial/)
 + `r emo::ji('play button')` [__Docker and Python: making them play nicely and securely for Data Science and ML__ by Tania Allard at PyCon 2020](https://us.pycon.org/2020/schedule/presentation/175/)
 
 ### Markdown, LaTeX and publishing
@@ -186,7 +186,7 @@ __Key to resource types__
 + `r emo::ji('books')` [__R Markdown: The Definitive Guide__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 + `r emo::ji('books')` [__bookdown: Authoring Books and Technical Documents with R Markdown__ by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 + `r emo::ji('books')` [__The Not So Short Introduction to LaTeX 2ε__ by Tobias Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
-+ `r emo::ji('books')` [__LaTeX for Beginners__ by UoE IS Services](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
++ `r emo::ji('books')` [__LaTeX for Beginners__ by UoE IS Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
 
 
 ## Data Science Practice
@@ -297,7 +297,7 @@ __Key to resource types__
 +  `r emo::ji('books')` [__Probabilistic Programming & Bayesian Methods for Hackers__ by Cameron Davidson-Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 + `r emo::ji('books')` [__From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science__ by Norm Matloff](http://heather.cs.ucdavis.edu/~matloff/132/PLN/probstatbook/ProbStatBook.pdf)
 + `r emo::ji('books')` [__Theory of Statistics__ by James E. Gentle](http://mason.gmu.edu/~jgentle/books/MathStat.pdf)
-+ `r emo::ji('books')` [__Core Statistics__ by Simon Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
++ `r emo::ji('books')` [__Core Statistics__ by Simon Wood](https://www.maths.ed.ac.uk/~swood34/core-statistics.pdf)
 
 
 ## Spatial analysis 
@@ -358,10 +358,8 @@ __Key to resource types__
 + `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 + `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
 + `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
-+ `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
++ `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 + `r emo::ji('memo')` [__Machine Learning Interpretability (MLI)__ by h2o.ai](https://github.com/h2oai/mli-resources)
-
-
 
 
 ## Special Topics

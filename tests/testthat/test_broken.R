@@ -1,4 +1,5 @@
 library(htmldf)
+library(dplyr)
 library(rvest)
 context("Check broken links")
 
@@ -15,15 +16,15 @@ test_that("Check broken", {
     unique(.)
   
   # check links for problems
-  vv <- html_df(links)
+  link_visit <- html_df(links)
   
   # check for any broken links
-  broken_links <- which(sapply(vv$source, function(v) class(v)[1]) == 'try-error')
+  link_broken <- link_visit %>% filter(status != 200)
   
-  # 
-  if(length(broken_links) > 0) print(vv$url[broken_links])
+  # print any broken links
+  if(nrow(link_broken) > 0) print(link_broken$url)
   
   # expect
-  expect_equal(length(broken_links), 0)
+  expect_equal(nrow(link_broken), 0)
   
 })
