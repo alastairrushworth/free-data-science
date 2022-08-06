@@ -27,6 +27,7 @@ broken link, please file an issue or submit a pull request.
 -   👥 = Community or user forum
 -   📜 = Journal or technical article
 -   💡 = Cheat sheet
+-   ✅ = List
 
 ## Software & Programming
 
@@ -295,6 +296,66 @@ broken link, please file an issue or submit a pull request.
 -   📚 [**LaTeX for Beginners** by UoE IS
     Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
 
+## Machine Learning
+
+### Theory
+
+-   📚 [**Elements of Statistical Learning** by Trevor Hastie, Robert
+    Tibshirani and Jerome Friedman
+    (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
+-   📚 [**Computer Age Statistical Inference: Algorithms, Evidence and
+    Data Science** by Bradley Efron and Trevor Hastie
+    (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+-   📚[**Mathematics for Machine Learning** by Marc Peter Deisenroth, A.
+    Aldo Faisal, Cheng Soon
+    Ong](https://mml-book.github.io/book/mml-book.pdf)
+-   📝 [Distill](https://distill.pub/)
+-   📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand
+    Rajaraman, Jeff Ullman](http://www.mmds.org/)
+-   📚 [**Introduction to Statistical Learning** by Gareth James,
+    Daniela Witten, Trevor Hastie and Robert
+    Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+    -   ISLR is still one of the most important books for getting
+        started in practical ML.
+
+### Interpretability
+
+-   📚 [**Interpretable Machine Learning: A Guide for Making Black Box
+    Models Explainable** by Christoph Molnar
+    (2022)](https://christophm.github.io/interpretable-ml-book/)
+    -   A highly practical introduction to IML, required reading if you
+        are new to the topic.
+-   ✅ [**Awesome: Machine Learning Interpretability** by Patrick
+    Hall](https://github.com/jphall663/awesome-machine-learning-interpretability)
+    -   A big list of MLI resources with \>2.5k github stars.
+
+### Guides, tutorials and courses
+
+-   🎓 [**Machine Learning Crash Course with TensorFlow APIs** by
+    Google](https://developers.google.com/machine-learning/crash-course)
+    -   fast-paced, practical introduction to machine learning, with
+        video lectures, real-world case studies, and hands-on practice
+        exercises.
+-   📝 [**Tidymodels Tutorials** by
+    RStudio](https://www.tidymodels.org/learn/)
+    -   Variety to beginners guides to solving common ML tasks with R’s
+        tidymodels.
+-   🎓 [**Supervised Machine Learning Case Studies in R** by Julia
+    Silge.](https://supervised-ml-course.netlify.app/)
+    -   Easy-to-follow in-browser beginner’s guide to using R’s
+        tidymodels for practical ML.
+-   📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
+    Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
+    -   Bitesize study videos and python notebooks by Justin Markham’s
+        Data School.
+-   📝 [**scikit-learn User Guide** by
+    scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+    -   sci-kit learn’s documentation are very thorough and a great
+        standalone learning resource!
+-   🎓 [**Introduction to Machine Learning for Coders** by Jeremy
+    Howard.](http://course18.fast.ai/ml)
+    -   24 hours of videos and supporting notes from a Kaggle superstar.
+
 ## Data Science Practice
 
 ### Software development
@@ -414,7 +475,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   🎮 / 🎓 [**Learn Shiny** by
+-   ⏯ / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -533,47 +594,9 @@ broken link, please file an issue or submit a pull request.
 -   📝 [**PyTorch Tutorials and Recipes** by
     PyTorch](https://pytorch.org/tutorials/)
 
-## Machine Learning
-
-### Theory
-
--   📚 [**Elements of Statistical Learning** by Trevor Hastie, Robert
-    Tibshirani and Jerome Friedman
-    (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
--   📚 [**Computer Age Statistical Inference: Algorithms, Evidence and
-    Data Science** by Bradley Efron and Trevor Hastie
-    (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
--   📚[**Mathematics for Machine Learning** by Marc Peter Deisenroth, A.
-    Aldo Faisal, Cheng Soon
-    Ong](https://mml-book.github.io/book/mml-book.pdf)
--   📝 [Distill](https://distill.pub/)
--   📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand
-    Rajaraman, Jeff Ullman](http://www.mmds.org/)
-
-### Practice
-
--   🎓 [**Machine Learning Crash Course with TensorFlow APIs** by
-    Google](https://developers.google.com/machine-learning/crash-course)
--   🎓 [**Supervised Machine Learning Case Studies in R** by Julia
-    Silge.](https://supervised-ml-course.netlify.app/)
--   📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
-    Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
--   📝 [**scikit-learn User Guide** by
-    scikit-learn](https://scikit-learn.org/stable/user_guide.html)
--   🎓 [**Introduction to Machine Learning for Coders** by Jeremy
-    Howard.](http://course18.fast.ai/ml)
--   📚 [**Interpretable Machine Learning: A Guide for Making Black Box
-    Models Explainable** by Christoph Molnar
-    (2020)](https://christophm.github.io/interpretable-ml-book/)
--   📚 [**Introduction to Statistical Learning** by Gareth James,
-    Daniela Witten, Trevor Hastie and Robert
-    Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
--   📝 [**Machine Learning Interpretability (MLI)** by
-    h2o.ai](https://github.com/h2oai/mli-resources)
-
 ## Special Topics
 
--   ▶️ [**Structural Equation Modelling** by Erin M.
+-   🎮 [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 -   📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)

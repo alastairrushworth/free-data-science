@@ -24,6 +24,7 @@ __Key to resource types__
 + `r emo::ji('users')` = Community or user forum 
 + `r emo::ji('scroll')` = Journal or technical article
 + `r emo::ji('bulb')` = Cheat sheet
++ `r emo::ji('check')` = List
 
 
 ## Software & Programming
@@ -188,6 +189,40 @@ __Key to resource types__
 + `r emo::ji('books')` [__The Not So Short Introduction to LaTeX 2ε__ by Tobias Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
 + `r emo::ji('books')` [__LaTeX for Beginners__ by UoE IS Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
 
+## Machine Learning
+
+### Theory
+
++ `r emo::ji('books')` [__Elements of Statistical Learning__ by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
++ `r emo::ji('books')` [__Computer Age Statistical Inference: Algorithms, Evidence and Data Science__ by Bradley Efron and Trevor Hastie (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
++ `r emo::ji('books')`[__Mathematics for Machine Learning__ by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
++ `r emo::ji('memo')` [Distill](https://distill.pub/)
++ `r emo::ji('books')` [__Mining of Massive Datasets__ by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
++ `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+  + ISLR is still one of the most important books for getting started in practical ML.
+
+### Interpretability 
+
++ `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2022)](https://christophm.github.io/interpretable-ml-book/)
+  + A highly practical introduction to IML, required reading if you are new to the topic.
++ `r emo::ji('check')` [__Awesome: Machine Learning Interpretability__ by Patrick Hall ](https://github.com/jphall663/awesome-machine-learning-interpretability)
+  + A big list of MLI resources with >2.5k github stars.
+
+### Guides, tutorials and courses
+
++ `r emo::ji('college')` [__Machine Learning Crash Course with TensorFlow APIs__ by Google](https://developers.google.com/machine-learning/crash-course)
+  + fast-paced, practical introduction to machine learning, with video lectures, real-world case studies, and hands-on practice exercises.
++ `r emo::ji('memo')` [__Tidymodels Tutorials__ by RStudio](https://www.tidymodels.org/learn/)
+  + Variety to beginners guides to solving common ML tasks with R's tidymodels.
++ `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
+  + Easy-to-follow in-browser beginner's guide to using R's tidymodels for practical ML.
++ `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
+  + Bitesize study videos and python notebooks by Justin Markham's Data School.
++ `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+  + sci-kit learn's documentation are very thorough and a great standalone learning resource!
++ `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
+  + 24 hours of videos and supporting notes from a Kaggle superstar.
+
 
 ## Data Science Practice
 
@@ -340,26 +375,7 @@ __Key to resource types__
 
 + `r emo::ji('memo')` [__PyTorch Tutorials and Recipes__ by PyTorch](https://pytorch.org/tutorials/)
 
-## Machine Learning
 
-### Theory
-
-+ `r emo::ji('books')` [__Elements of Statistical Learning__ by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
-+ `r emo::ji('books')` [__Computer Age Statistical Inference: Algorithms, Evidence and Data Science__ by Bradley Efron and Trevor Hastie (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
-+ `r emo::ji('books')`[__Mathematics for Machine Learning__ by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/book/mml-book.pdf)
-+ `r emo::ji('memo')` [Distill](https://distill.pub/)
-+ `r emo::ji('books')` [__Mining of Massive Datasets__ by Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
-
-### Practice
-
-+ `r emo::ji('college')` [__Machine Learning Crash Course with TensorFlow APIs__ by Google](https://developers.google.com/machine-learning/crash-course)
-+ `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
-+ `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
-+ `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
-+ `r emo::ji('college')` [__Introduction to Machine Learning for Coders__ by Jeremy Howard.](http://course18.fast.ai/ml)
-+ `r emo::ji('books')` [__Interpretable Machine Learning: A Guide for Making Black Box Models Explainable__ by Christoph Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
-+ `r emo::ji('books')` [__Introduction to Statistical Learning__ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
-+ `r emo::ji('memo')` [__Machine Learning Interpretability (MLI)__ by h2o.ai](https://github.com/h2oai/mli-resources)
 
 
 ## Special Topics
