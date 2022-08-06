@@ -129,7 +129,7 @@ __Key to resource types__
 + `r emo::ji('memo')` [__The Art of the Command Line__ by Joshua Levy](https://github.com/jlevy/the-art-of-command-line)
   + Useful list of bash commands and explainers, all laid out on a single page!
 + `r emo::ji('memo')` [__ExplainShell.com__ by Idan Kamara](https://explainshell.com/)
-  + Hand utility - type in a shell command and get an explanation of what it does.
+  + Handy utility - type in a shell command and get an explanation of what it does.
 
 ### Regular expressions
 
@@ -164,10 +164,6 @@ __Key to resource types__
 + `r emo::ji('play button')` [__R & Spark: How to Analyze Data Using RStudio's Sparklyr__ by Nathan Stephens](https://www.youtube.com/watch?v=oItFZfzqqMY)
 + `r emo::ji('books')`[__A Gentle Introduction to Spark__ by DataBricks](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/book/databricks/spark-intro.pdf)
 
-### Javascript
-
-+ `r emo::ji('college')` [__Learn JS__ by Ron Reiter](https://www.learn-js.org/)
-+ `r emo::ji('books')` [__JavaScript for Data Science__ by Maya Gans, Toby Hodges, and Greg Wilson](http://js4ds.org/)
 
 ### SQL
 
@@ -231,16 +227,19 @@ __Key to resource types__
 + `r emo::ji('memo')` [__Software development skills for data scientists__ by Trey Causey](http://treycausey.com/software_dev_skills.html)
 + `r emo::ji('scroll')` [__Hidden Technical Debt in Machine Learning Systems__](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 + `r emo::ji('memo')` [__How rOpenSci uses Code Review to Promote Reproducible Science__ by Noam Ross, Scott Chamberlain, Karthik Ram and Maëlle Salmon](https://ropensci.org/blog/2017/09/01/nf-softwarereview/)
-+  `r emo::ji('scroll')`  [__Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research__ by Victoria Stodden and Sheila Miguez](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
++ `r emo::ji('scroll')`  [__Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research__ by Victoria Stodden and Sheila Miguez](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.ay/)
 + `r emo::ji('memo')` [__Journalism as a Professional Model for Data Science__ by Brian C. Keegan](https://www.brianckeegan.com/2016/02/journalism-as-a-professional-model-for-data-science/)
 + `r emo::ji('memo')` [__Cookiecutter Data Science__ by drivendata](https://github.com/drivendata/cookiecutter-data-science)
 
 
 ### Hiring and building teams
 
-+  `r emo::ji('memo')` [__Hiring a data scientist__ by Mikhail Popov, Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
 + `r emo::ji('books')` [__The Care and Feeding of Data Scientists: How to Build, Manage and Retain a Data Science Team__ by Michelangelo D'Agostino and Katie Malone](https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf)
 + `r emo::ji('headphone')` [__The Care and Feeding of Data Scientists: Becoming a Data Science Manager__ on Linear Digressions podcast by Katie Malone and Ben Jaffe](http://lineardigressions.com/episodes/2019/10/18/the-care-and-feeding-of-data-scientists-becoming-a-data-science-manager)
++ `r emo::ji('memo')` [__Models for integrating data science teams within companies__ by Pardis Noorzad](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
++ `r emo::ji('headphone')` [__Building Effective Data Science Teams__ with Kobi Abayomi, Gregory Berg, Elaine McVey, Jacqueline Nolis, Nasir Uddin and Julia Silge](https://www.rstudio.com/resources/webinars/building-effective-data-science-teams/)
++ `r emo::ji('memo')` [__Building a data team at a mid-stage startup: a short story__ by Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
++  `r emo::ji('memo')` [__Hiring a data scientist__ by Mikhail Popov, Wikimedia](https://diff.wikimedia.org/2017/02/02/hiring-data-scientist/)
 
 
 ### Agile data science 
@@ -297,6 +296,7 @@ __Key to resource types__
 + `r emo::ji('books')` [__Dashboards__ by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).  Chapter 5 from 'R Markdown: The Definitive Guide'.
 + `r emo::ji('memo')` [__Leaflet for R__ by RStudio](https://rstudio.github.io/leaflet/)
 + `r emo::ji('memo')` [__Dash User Guide__ by Plotly](https://dash.plotly.com)
++ `r emo::ji('memo')` [__Getting Started with Streamlit__ by streamlit](https://docs.streamlit.io/library/get-started)
 
 
 
@@ -368,20 +368,13 @@ __Key to resource types__
   + `r emo::ji('books')` [__Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit__ by Steven Bird, Ewan Klein, and Edward Loper.](http://www.nltk.org/book/)
   + `r emo::ji('college')`  [__A Code-First Intro to Natural Language Processing__ by fast.ai](https://github.com/fastai/course-nlp).  The course is taught in Python with Jupyter Notebooks, using libraries such as sklearn, nltk, pytorch, and fastai.
 + `r emo::ji('books')` [__Speech and Language Processing__ by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
-+ `r emo::ji('play button')` [__BERT Research Series__ by  Chris McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
-
-
-## Deep Learning
-
-+ `r emo::ji('memo')` [__PyTorch Tutorials and Recipes__ by PyTorch](https://pytorch.org/tutorials/)
-
-
++ `r emo::ji('play button')` [__BERT Research Series__ by Chris McCormick](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
 
 ## Special Topics
 
 + `r emo::ji('play')` [__Structural Equation Modelling__ by Erin M. Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 + `r emo::ji('books')` [__Machine Learning for Factor Investing__ by Guillaume Coqueret and Tony Guida](http://www.mlfactor.com/)
-
++ `r emo::ji('memo')` [__PyTorch Tutorials and Recipes__ by PyTorch](https://pytorch.org/tutorials/)
 
 
