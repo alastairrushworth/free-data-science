@@ -72,10 +72,10 @@ broken link, please file an issue or submit a pull request.
 -   📚 [**Introduction to Data Science: Data Analysis and Prediction
     Algorithms with R** by Rafael A.
     Irizarry](https://rafalab.github.io/dsbook/).
-    -   Introduction to data science focussed topics in R:
-        visualisation, wrangling, prediction and workflow.
+    -   Introduction to data science focused topics in R: visualisation,
+        wrangling, prediction and workflow.
 -   💡 [**Base R Cheat Sheet** by Mhairi
-    McNeill](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf).
+    McNeill](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf).
     -   Quick overview of basic R functionality.
 
 ### Advancing with R
@@ -108,8 +108,8 @@ broken link, please file an issue or submit a pull request.
     RStudio](https://rstudio.com/resources/webinars/).
     -   Recordings of past RStudio webinars covering a variety of R and
         data science content.  
--   📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the R
-    Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).
+-   📚 [**An Introduction to R** by W. N. Venables, D. M. Smith and the
+    R Core Team](https://cran.r-project.org/doc/manuals/R-intro.pdf).
     -   Introduction to R written by the R-Core team.  
 -   📚 / 🎓 [**Data science for economists** by Grant
     McDermott](https://github.com/uo-ec607/lectures#data-science-for-economists).
@@ -171,8 +171,8 @@ broken link, please file an issue or submit a pull request.
     Charles R. Severance](https://www.py4e.com/book.php).
     -   Python ebook with a focus on programming fundamentals.
         Translations available in several languages.
--   📝 [**Python Packaging User Guide** by the Python Packaging Authority
-    (PyPA)](https://packaging.python.org/).
+-   📝 [**Python Packaging User Guide** by the Python Packaging
+    Authority (PyPA)](https://packaging.python.org/).
     -   A collection of tutorials and references to help you distribute
         and install Python packages with modern tools.
 
@@ -267,8 +267,8 @@ broken link, please file an issue or submit a pull request.
     Tutorials and interactive excercies teaching fundamentals of SQL.
 -   🎓 [**SQLBolt: Learn SQL with simple, interactive
     exercises**](https://sqlbolt.com/).
--   📚 / 🎓 [**SQLZoo: SQL Tutorial**](https://sqlzoo.net/). Wikibook with
-    interactive exercises.
+-   📚 / 🎓 [**SQLZoo: SQL Tutorial**](https://sqlzoo.net/). Wikibook
+    with interactive exercises.
 -   🎓 [**Intro to SQL: Querying and managing data** by Khan
     Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 -   🎓 [**LearnSQLOnline** by Ron
@@ -278,22 +278,22 @@ broken link, please file an issue or submit a pull request.
 
 -   📝 [**An Introduction to Docker for R Users** by Colin
     Fay](https://colinfay.me/docker-r-reproducibility/)
--   🎓 [**R Docker tutorial** by
-    ROpenSciLabs](https://ropenscilabs.github.io/r-docker-tutorial/)
+-   🎓 [**R Docker tutorial** by Jemma
+    Stachelek](https://jsta.github.io/r-docker-tutorial/)
 -   ▶️ [**Docker and Python: making them play nicely and securely for
     Data Science and ML** by Tania Allard at PyCon
     2020](https://us.pycon.org/2020/schedule/presentation/175/)
 
 ### Markdown, LaTeX and publishing
 
--   📚 [**R Markdown: The Definitive Guide** by Yihui Xie, J. J. Allaire,
-    Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
+-   📚 [**R Markdown: The Definitive Guide** by Yihui Xie, J. J.
+    Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
 -   📚 [**bookdown: Authoring Books and Technical Documents with R
     Markdown** by Yihui Xie](https://bookdown.org/yihui/bookdown/)
 -   📚 [**The Not So Short Introduction to LaTeX 2ε** by Tobias
     Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
 -   📚 [**LaTeX for Beginners** by UoE IS
-    Services](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
+    Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
 
 ## Data Science Practice
 
@@ -303,8 +303,8 @@ broken link, please file an issue or submit a pull request.
     Causey](http://treycausey.com/software_dev_skills.html)
 -   📜 [**Hidden Technical Debt in Machine Learning
     Systems**](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
--   📝 [**How rOpenSci uses Code Review to Promote Reproducible Science**
-    by Noam Ross, Scott Chamberlain, Karthik Ram and Maëlle
+-   📝 [**How rOpenSci uses Code Review to Promote Reproducible
+    Science** by Noam Ross, Scott Chamberlain, Karthik Ram and Maëlle
     Salmon](https://ropensci.org/blog/2017/09/01/nf-softwarereview/)
 -   📜 [**Best Practices for Computational Science: Software
     Infrastructure and Environments for Reproducible and Extensible
@@ -336,8 +336,8 @@ broken link, please file an issue or submit a pull request.
 -   📝 [**Data Science and Agile (What works, and what doesn’t)** by
     Eugene
     Yan](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
--   📝 [**Data Science Best Practices: Run your data science team like an
-    engineering team** by Leonard
+-   📝 [**Data Science Best Practices: Run your data science team like
+    an engineering team** by Leonard
     Austin](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
 -   📝 [**Organizing machine learning projects: project management
     guidelines** by Jeremy
@@ -381,8 +381,8 @@ broken link, please file an issue or submit a pull request.
     Microsoft](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
 -   📝 [**Getting started with Kubeflow Pipelines** by Amy Unruh, Google
     Cloud](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
--   📝 [**Continuous Machine Learning (CML) is CI/CD for Machine Learning
-    Projects** by DVC.org](https://cml.dev/)
+-   📝 [**Continuous Machine Learning (CML) is CI/CD for Machine
+    Learning Projects** by DVC.org](https://cml.dev/)
 -   📝 [**Data Science Workflows** by David
     Neuzerling](https://mdneuzerling.com/post/data-science-workflows/)
 -   📝 [**Monitoring Machine Learning Models in Production A
@@ -414,7 +414,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   ▶️ / 🎓 [**Learn Shiny** by
+-   🎮 / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -423,7 +423,8 @@ broken link, please file an issue or submit a pull request.
 -   📚 [**Dashboards** by Yihui Xie, J. J. Allaire, Garrett
     Grolemund](https://bookdown.org/yihui/rmarkdown/dashboards.html).
     Chapter 5 from ‘R Markdown: The Definitive Guide’.
--   📝 [**Leaflet for R** by RStudio](https://rstudio.github.io/leaflet/)
+-   📝 [**Leaflet for R** by
+    RStudio](https://rstudio.github.io/leaflet/)
 -   📝 [**Dash User Guide** by Plotly](https://dash.plotly.com)
 
 ## Visualisation
@@ -470,7 +471,7 @@ broken link, please file an issue or submit a pull request.
 -   📚 [**Theory of Statistics** by James E.
     Gentle](http://mason.gmu.edu/~jgentle/books/MathStat.pdf)
 -   📚 [**Core Statistics** by Simon
-    Wood](https://people.maths.bris.ac.uk/~sw15190/core-statistics.pdf)
+    Wood](https://www.maths.ed.ac.uk/~swood34/core-statistics.pdf)
 
 ## Spatial analysis
 
@@ -499,9 +500,9 @@ broken link, please file an issue or submit a pull request.
     Community**](https://www.rfordatasci.com/). The R4DS Online Learning
     Community is a community of R learners at all skill levels working
     together to improve their skills.
--   👥 [**Tidy Tuesday**](https://www.tidytuesday.com/). A weekly podcast
-    and community activity brought to you by the R4DS Online Learning
-    Community.
+-   👥 [**Tidy Tuesday**](https://www.tidytuesday.com/). A weekly
+    podcast and community activity brought to you by the R4DS Online
+    Learning Community.
 -   👥[**SatRdays** SatRdays](https://satrdays.org/). R-focused
     conferences that are held on Saturdays.
 
@@ -537,8 +538,8 @@ broken link, please file an issue or submit a pull request.
 ### Theory
 
 -   📚 [**Elements of Statistical Learning** by Trevor Hastie, Robert
-    Tibshirani and Jerome
-    Friedman (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
+    Tibshirani and Jerome Friedman
+    (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
 -   📚 [**Computer Age Statistical Inference: Algorithms, Evidence and
     Data Science** by Bradley Efron and Trevor Hastie
     (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
@@ -546,8 +547,8 @@ broken link, please file an issue or submit a pull request.
     Aldo Faisal, Cheng Soon
     Ong](https://mml-book.github.io/book/mml-book.pdf)
 -   📝 [Distill](https://distill.pub/)
--   📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand Rajaraman,
-    Jeff Ullman](http://www.mmds.org/)
+-   📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand
+    Rajaraman, Jeff Ullman](http://www.mmds.org/)
 
 ### Practice
 
@@ -555,24 +556,24 @@ broken link, please file an issue or submit a pull request.
     Google](https://developers.google.com/machine-learning/crash-course)
 -   🎓 [**Supervised Machine Learning Case Studies in R** by Julia
     Silge.](https://supervised-ml-course.netlify.app/)
--   📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+-   📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 -   📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 -   🎓 [**Introduction to Machine Learning for Coders** by Jeremy
     Howard.](http://course18.fast.ai/ml)
 -   📚 [**Interpretable Machine Learning: A Guide for Making Black Box
-    Models Explainable** by Christoph
-    Molnar (2020)](https://christophm.github.io/interpretable-ml-book/)
--   📚 [**Introduction to Statistical Learning** by Gareth James, Daniela
-    Witten, Trevor Hastie and Robert
-    Tibshirani](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+    Models Explainable** by Christoph Molnar
+    (2020)](https://christophm.github.io/interpretable-ml-book/)
+-   📚 [**Introduction to Statistical Learning** by Gareth James,
+    Daniela Witten, Trevor Hastie and Robert
+    Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 -   📝 [**Machine Learning Interpretability (MLI)** by
     h2o.ai](https://github.com/h2oai/mli-resources)
 
 ## Special Topics
 
--   🎮 [**Structural Equation Modelling** by Erin M.
+-   ▶️ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 -   📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
     and Tony Guida](http://www.mlfactor.com/)
