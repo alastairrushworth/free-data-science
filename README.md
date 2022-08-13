@@ -347,7 +347,7 @@ broken link, please file an issue or submit a pull request.
     Silge.](https://supervised-ml-course.netlify.app/)
     -   Easy-to-follow in-browser beginner’s guide to using R’s
         tidymodels for practical ML.
--   📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
+-   📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
     -   Bite size study videos and python notebooks by Justin Markham’s
         Data School.
@@ -482,8 +482,7 @@ broken link, please file an issue or submit a pull request.
 -   📝 [**The Google Python Style Guide** by
     Google](https://google.github.io/styleguide/pyguide.html)
 -   📝 [**PEP 8 – Style Guide for Python Code** by Guido van Rossum,
-    Barry Warsaw, Nick
-    Coghlan](https://www.python.org/dev/peps/pep-0008/)
+    Barry Warsaw, Nick Coghlan](https://peps.python.org/pep-0008/)
 
 ## Developing interactive applications
 
@@ -605,7 +604,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Special Topics
 
--   ⏯ [**Structural Equation Modelling** by Erin M.
+-   🎮 [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
 -   📝 [**PyTorch Tutorials and Recipes** by
     PyTorch](https://pytorch.org/tutorials/)
