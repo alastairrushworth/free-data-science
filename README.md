@@ -197,7 +197,7 @@ broken link, please file an issue or submit a pull request.
     -   Videos and notes on using shell and version control.
 -   📝 [**The Art of the Command Line** by Joshua
     Levy](https://github.com/jlevy/the-art-of-command-line)
-    -   Useful list of bash commands and explainers, all laid out on a
+    -   Useful list of bash commands and explanations, all laid out on a
         single page!
 -   📝 [**ExplainShell.com** by Idan Kamara](https://explainshell.com/)
     -   Handy utility - type in a shell command and get an explanation
@@ -214,10 +214,10 @@ broken link, please file an issue or submit a pull request.
         strings.
 -   💡 [**Data Science Cheat Sheet: Python Regular Expressions** by
     Dataquest](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf)
-    -   PDF cheatsheet for standard regular expression syntax.
+    -   PDF cheat-sheet for standard regular expression syntax.
 -   💡[**Regular Expressions Cheat Sheet** by Dave
     Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
-    -   PDF cheatsheet for standard regular expression syntax.
+    -   PDF cheat-sheet for standard regular expression syntax.
 
 ### Git
 
@@ -259,7 +259,7 @@ broken link, please file an issue or submit a pull request.
 
 -   📚 / 🎓 [**The SQL Tutorial for Data Analysis** by
     mode.com](https://mode.com/sql-tutorial/introduction-to-sql/).
-    Tutorials and interactive excercies teaching fundamentals of SQL.
+    Tutorials and interactive exercises teaching fundamentals of SQL.
 -   🎓 [**SQLBolt: Learn SQL with simple, interactive
     exercises**](https://sqlbolt.com/).
 -   📚 / 🎓 [**SQLZoo: SQL Tutorial**](https://sqlzoo.net/). Wikibook
@@ -294,18 +294,27 @@ broken link, please file an issue or submit a pull request.
 
 ### Theory
 
--   📚 [**Elements of Statistical Learning** by Trevor Hastie, Robert
-    Tibshirani and Jerome Friedman
+-   📚 [**The Elements of Statistical Learning: Data Mining, Inference,
+    and Prediction** by Trevor Hastie, Robert Tibshirani and Jerome
+    Friedman
     (2017)](https://web.stanford.edu/~hastie/ElemStatLearn/download.html)
 -   📚 [**Computer Age Statistical Inference: Algorithms, Evidence and
     Data Science** by Bradley Efron and Trevor Hastie
     (2017).](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+    -   A statistical approach to data science and machine learning.
 -   📚[**Mathematics for Machine Learning** by Marc Peter Deisenroth, A.
     Aldo Faisal, Cheng Soon
     Ong](https://mml-book.github.io/book/mml-book.pdf)
--   📝 [Distill](https://distill.pub/)
+    -   Covers the underpinning theory to many ML algorithms, a useful
+        reference for practitioners.
+-   📝 [**distill.pub** by multiple contributors, edited by Shan Carter
+    and Chris Olah](https://distill.pub/)
+    -   Online scientific journal publishing very high-quality,
+        interactive articles on ML. On hiatus as of 2021.
 -   📚 [**Mining of Massive Datasets** by Jure Leskovec, Anand
     Rajaraman, Jeff Ullman](http://www.mmds.org/)
+    -   Book based on Stanford Computer Science course [CS246: Mining
+        Massive Datasets](http://web.stanford.edu/class/cs246/).
 -   📚 [**Introduction to Statistical Learning** by Gareth James,
     Daniela Witten, Trevor Hastie and Robert
     Tibshirani](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
@@ -338,9 +347,9 @@ broken link, please file an issue or submit a pull request.
     Silge.](https://supervised-ml-course.netlify.app/)
     -   Easy-to-follow in-browser beginner’s guide to using R’s
         tidymodels for practical ML.
--   📝 / 🎮 [**Introduction to machine learning with scikit-learn** by
+-   📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
     Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
-    -   Bitesize study videos and python notebooks by Justin Markham’s
+    -   Bite size study videos and python notebooks by Justin Markham’s
         Data School.
 -   📝 [**scikit-learn User Guide** by
     scikit-learn](https://scikit-learn.org/stable/user_guide.html)
@@ -478,7 +487,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
--   ▶️ / 🎓 [**Learn Shiny** by
+-   🎮 / 🎓 [**Learn Shiny** by
     RStudio](https://shiny.rstudio.com/tutorial/)
 -   📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
     Minnier](https://laderast.github.io/gradual_shiny/)
@@ -563,13 +572,13 @@ broken link, please file an issue or submit a pull request.
 -   👥 [**Complete list of R-Ladies groups** by R-Ladies
     Global](https://benubah.github.io/r-community-explorer/rladies.html).  
 -   👥 [**R for Data Science Online Learning
-    Community**](https://www.rfordatasci.com/). The R4DS Online Learning
-    Community is a community of R learners at all skill levels working
-    together to improve their skills.
--   👥 [**Tidy Tuesday**](https://www.tidytuesday.com/). A weekly
-    podcast and community activity brought to you by the R4DS Online
-    Learning Community.
--   👥[**SatRdays** SatRdays](https://satrdays.org/). R-focused
+    Community**](https://www.rfordatasci.com/)
+    -   The R4DS Online Learning Community is a community of R learners
+        at all skill levels working together to improve their skills.
+-   👥 [**Tidy Tuesday**](https://www.tidytuesday.com/)
+    -   A weekly podcast and community activity brought to you by the
+        R4DS Online Learning Community.
+-   👥[**SatRdays** SatRdays](https://satrdays.org/) +R-focused
     conferences that are held on Saturdays.
 
 ## Natural language processing
@@ -586,9 +595,9 @@ broken link, please file an issue or submit a pull request.
     the Natural Language Toolkit** by Steven Bird, Ewan Klein, and
     Edward Loper.](http://www.nltk.org/book/)
 -   🎓 [**A Code-First Intro to Natural Language Processing** by
-    fast.ai](https://github.com/fastai/course-nlp). The course is taught
-    in Python with Jupyter Notebooks, using libraries such as sklearn,
-    nltk, pytorch, and fastai.
+    fast.ai](https://github.com/fastai/course-nlp)
+-   The course is taught in Python with Jupyter Notebooks, using
+    libraries such as sklearn, nltk, pytorch, and fastai.
 -   📚 [**Speech and Language Processing** by Dan Jurafsky and James H.
     Martin](https://web.stanford.edu/~jurafsky/slp3/)
 -   ▶️ [**BERT Research Series** by Chris
@@ -598,7 +607,5 @@ broken link, please file an issue or submit a pull request.
 
 -   ⏯ [**Structural Equation Modelling** by Erin M.
     Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
--   📚 [**Machine Learning for Factor Investing** by Guillaume Coqueret
-    and Tony Guida](http://www.mlfactor.com/)
 -   📝 [**PyTorch Tutorials and Recipes** by
     PyTorch](https://pytorch.org/tutorials/)
