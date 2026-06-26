@@ -3,3 +3,6 @@ free\-data\-science.Rproj
 .Rhistory
 .RData
 .Ruserdata
+README.html
+_site/
+.jekyll-cache/
