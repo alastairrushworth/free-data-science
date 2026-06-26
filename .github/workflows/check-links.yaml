@@ -1,0 +1,31 @@
+name: check-links
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - name: Install dependencies
+        run: install.packages(c("testthat", "httr2", "stringr"))
+        shell: Rscript {0}
+
+      - name: Check README links
+        run: testthat::test_file("tests/testthat/test_broken.R", stop_on_failure = TRUE)
+        shell: Rscript {0}
+        env:
+          NOT_CRAN: "true"

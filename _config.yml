@@ -1,0 +1,9 @@
+title: Free data science resources
+description: >-
+  A curated, thematically-arranged collection of high-quality, free data
+  science learning resources that don't require readers to sign up.
+theme: jekyll-theme-cayman
+url: https://alastairrushworth.com
+baseurl: /free-data-science
+plugins:
+  - jekyll-sitemap

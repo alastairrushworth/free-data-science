@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^_config\.yml$
+^README\.Rmd$
+^\.github$

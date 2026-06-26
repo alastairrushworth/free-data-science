@@ -1,4 +1,4 @@
 library(testthat)
-library(free-data-science)
+library(freedatascience)
 
-test_check("free-data-science")
+test_check("freedatascience")
