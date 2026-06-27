@@ -174,6 +174,17 @@ broken link, please file an issue or submit a pull request.
   - A collection of tutorials and references to help you distribute and
     install Python packages with modern tools.
 
+### Polars
+
+- 📝 [**Polars User Guide** by the Polars
+  team](https://docs.pola.rs/user-guide/)
+  - The official, example-driven guide to Polars’ expressions, contexts
+    and lazy execution.
+- 📚 [**Modern Polars** by Kevin
+  Heavey](https://kevinheavey.github.io/modern-polars/)
+  - A side-by-side comparison of idiomatic Polars and pandas, with
+    commentary on API design and performance.
+
 ### Shell
 
 - 🎓 [**Learn Shell** by Ron Reiter](https://www.learnshell.org/).
@@ -214,6 +225,19 @@ broken link, please file an issue or submit a pull request.
 - 💡[**Regular Expressions Cheat Sheet** by Dave
   Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
   - PDF cheat-sheet for standard regular expression syntax.
+
+### Web scraping
+
+- 📚 [**Automate the Boring Stuff with Python (3e): Web Scraping** by Al
+  Sweigart](https://automatetheboringstuff.com/3e/chapter13.html)
+  - A beginner-friendly, project-driven walkthrough of downloading and
+    parsing web pages with requests, Beautiful Soup, Selenium and
+    Playwright.
+- 📚 [**R for Data Science (2e): Web scraping** by Hadley Wickham, Mine
+  Çetinkaya-Rundel and Garrett
+  Grolemund](https://r4ds.hadley.nz/webscraping)
+  - A clear introduction to extracting data from HTML pages in R with
+    the rvest package, including selectors and scraping ethics.
 
 ### Git
 
@@ -280,6 +304,17 @@ broken link, please file an issue or submit a pull request.
 - 🎓 [**LearnSQLOnline** by Ron Reiter](https://www.learnsqlonline.org/)
   - Browser-based interactive tutorial covering SQL fundamentals.
 
+### DuckDB
+
+- 📝 [**DuckDB Documentation** by the DuckDB
+  team](https://duckdb.org/docs/)
+  - The official documentation hub covering installation, SQL and client
+    APIs across many languages.
+- 📝 [**SQL Introduction** by the DuckDB
+  team](https://duckdb.org/docs/stable/sql/introduction)
+  - A hands-on tour of core SQL operations – tables, queries, joins and
+    aggregates – using DuckDB.
+
 ### Docker
 
 - 📝 [**An Introduction to Docker for R Users** by Colin
@@ -305,6 +340,19 @@ broken link, please file an issue or submit a pull request.
   Markdown** by Yihui Xie](https://bookdown.org/yihui/bookdown/)
   - Guide to writing books and long-form technical documents with R
     Markdown.
+- 📝 [**Get Started with Quarto** by
+  Posit](https://quarto.org/docs/get-started/)
+  - The official starting point for authoring and publishing
+    reproducible documents, reports and slides with Quarto.
+- 📚 [**R for Data Science (2e): Quarto** by Hadley Wickham, Mine
+  Çetinkaya-Rundel and Garrett
+  Grolemund](https://r4ds.hadley.nz/quarto.html)
+  - A concise, practical chapter on weaving code, results and prose into
+    a single reproducible document.
+- 📚 [**Quarto for Scientists** by Nicholas
+  Tierney](https://qmd4sci.njtierney.com/)
+  - A gentle, scientist-focused guide to producing reproducible reports,
+    papers and slides with Quarto.
 - 📚 [**The Not So Short Introduction to LaTeX 2ε** by Tobias
   Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
   - A concise and practical introduction to typesetting documents with
@@ -312,6 +360,28 @@ broken link, please file an issue or submit a pull request.
 - 📚 [**LaTeX for Beginners** by UoE IS
   Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
   - Step-by-step primer for getting started with LaTeX.
+
+## Data engineering and pipelines
+
+- 🎓 [**Data Engineering Zoomcamp** by
+  DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+  - A free, end-to-end course building production-ready pipelines with
+    dbt, orchestration, BigQuery, Spark and Kafka.
+- 📚 [**dbt Documentation** by dbt Labs](https://docs.getdbt.com/)
+  - The official documentation for building, testing and deploying
+    analytics transformations with dbt.
+- 📝 [**Apache Airflow Tutorials** by the Apache Software
+  Foundation](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html)
+  - The official hands-on guides for authoring your first workflows and
+    DAGs in Apache Airflow.
+- 📚 [**The {targets} R Package User Manual** by Will
+  Landau](https://books.ropensci.org/targets/)
+  - A thorough guide to building reproducible, dependency-aware analysis
+    pipelines in R.
+- 📝 [**minimal make: A minimal tutorial on make** by Karl
+  Broman](https://kbroman.org/minimal_make/)
+  - A short, approachable tutorial on using GNU Make to automate
+    reproducible research workflows.
 
 ## Machine Learning
 
@@ -371,7 +441,7 @@ broken link, please file an issue or submit a pull request.
   Silge.](https://supervised-ml-course.netlify.app/)
   - Easy-to-follow in-browser beginner’s guide to using R’s tidymodels
     for practical ML.
-- 📝 / ⏯ [**Introduction to machine learning with scikit-learn** by
+- 📝 / ▶️ [**Introduction to machine learning with scikit-learn** by
   Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   - Bite size study videos and python notebooks by Justin Markham’s Data
     School.
@@ -406,6 +476,33 @@ broken link, please file an issue or submit a pull request.
   - MIT’s introductory deep learning course with open lectures, slides
     and software labs.
 
+### Computer vision
+
+- 🎓 [**CS231n: Deep Learning for Computer Vision** by Stanford
+  University](https://cs231n.github.io/)
+  - Stanford’s computer vision course, with freely available lecture
+    notes, Python primers and assignments.
+- 📝 [**OpenCV Tutorials** by the OpenCV
+  team](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+  - Official tutorials spanning image processing, object detection,
+    feature matching and the deep neural network module.
+
+### Reinforcement learning
+
+- 📚 [**Reinforcement Learning: An Introduction (2nd ed.)** by
+  Richard S. Sutton and Andrew G.
+  Barto](http://incompleteideas.net/book/the-book-2nd.html)
+  - The standard introductory textbook on reinforcement learning,
+    offered as a complete free PDF by its authors.
+- ▶️ [**Introduction to Reinforcement Learning** by David Silver,
+  DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+  - A ten-lecture course covering reinforcement learning fundamentals
+    through to function approximation and policy gradients.
+- 📝 [**Spinning Up in Deep RL** by
+  OpenAI](https://spinningup.openai.com/en/latest/)
+  - An educational resource on deep RL with explanatory theory, a
+    curated paper list and documented reference implementations.
+
 ### Large language models and generative AI
 
 - 🎓 [**Hugging Face LLM Course** by Hugging
@@ -428,6 +525,26 @@ broken link, please file an issue or submit a pull request.
   DAIR.AI](https://www.promptingguide.ai/)
   - Reference guide to prompting techniques, applications and risks for
     large language models.
+- 📝 [**Building Effective Agents** by
+  Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+  - A practical breakdown of agent and workflow patterns, with guidance
+    on when added complexity is worth it.
+- 📝 [**Claude Cookbooks** by
+  Anthropic](https://github.com/anthropics/claude-cookbooks)
+  - Runnable notebooks covering retrieval, tool use, agents, evaluations
+    and multimodal work with Claude.
+- 🎓 [**Anthropic Courses** by
+  Anthropic](https://github.com/anthropics/courses)
+  - Sequential courses on API fundamentals, prompt engineering, prompt
+    evaluations and tool use.
+- 📝 [**Patterns for Building LLM-based Systems & Products** by Eugene
+  Yan](https://eugeneyan.com/writing/llm-patterns/)
+  - A survey of practical patterns for production LLM systems, from
+    evaluation and retrieval to guardrails and feedback.
+- 📝 [**Your AI Product Needs Evals** by Hamel
+  Husain](https://hamel.dev/blog/posts/evals/)
+  - A grounded framework for evaluating LLM products, built around unit
+    tests, human and model review, and A/B testing.
 
 ## Data Science Practice
 
@@ -615,7 +732,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Developing interactive applications
 
-- ⏯ / 🎓 [**Learn Shiny** by
+- ▶️ / 🎓 [**Learn Shiny** by
   RStudio](https://shiny.rstudio.com/tutorial/)
   - Official tutorial for building interactive web apps in R with Shiny.
 - 📚 [**A gRadual intRoduction to Shiny** by Ted Laderas and Jessica
@@ -655,6 +772,22 @@ broken link, please file an issue or submit a pull request.
   Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
   - Masterclass materials on 3D mapping and visualisation in R with
     rayshader.
+- 📚 [**Scientific Visualization: Python + Matplotlib** by Nicolas P.
+  Rougier](https://github.com/rougier/scientific-visualization-book)
+  - An open-access book on producing high-quality scientific figures
+    with matplotlib.
+- 📝 [**seaborn: statistical data visualization** by Michael
+  Waskom](https://seaborn.pydata.org/tutorial.html)
+  - The official tutorial for seaborn, covering statistical plotting
+    built on matplotlib.
+- 📝 [**The Python Graph Gallery** by Yan
+  Holtz](https://python-graph-gallery.com/)
+  - Hundreds of Python chart examples with reproducible code across
+    matplotlib, seaborn, pandas and plotly.
+- 📝 [**Plotly Open Source Graphing Library for Python** by
+  Plotly](https://plotly.com/python/)
+  - Official documentation for Plotly’s free, open-source library for
+    interactive charts.
 
 ## Time series analysis
 
@@ -676,6 +809,30 @@ broken link, please file an issue or submit a pull request.
 - 📝 [**Resources for Learning About and Using GAMs in R** by Noam
   Ross](https://github.com/noamross/gam-resources)
   - A curated list of resources for learning about and using GAMs in R.
+
+## Mathematics
+
+- ▶️ [**Essence of Linear Algebra** by Grant Sanderson
+  (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - A visual, intuition-first video series on vectors, transformations,
+    determinants and eigenvectors.
+- ▶️ [**Essence of Calculus** by Grant Sanderson
+  (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  - A visual series building the central ideas of calculus from
+    derivatives to integrals.
+- 🎓 [**Linear Algebra (18.06)** by Gilbert Strang, MIT
+  OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+  - Strang’s classic full-semester course with complete video lectures,
+    problem sets and exams.
+- 📚 [**Introduction to Applied Linear Algebra: Vectors, Matrices, and
+  Least Squares** by Stephen Boyd and Lieven
+  Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
+  - A free textbook on the linear algebra most relevant to data science,
+    with an emphasis on least squares.
+- ▶️ [**Statistics 110: Probability** by Joe Blitzstein,
+  Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  - A full set of Harvard lectures teaching probability from first
+    principles.
 
 ## Statistics
 
@@ -739,6 +896,28 @@ broken link, please file an issue or submit a pull request.
   by Nick Huntington-Klein](https://theeffectbook.net/)
   - An accessible introduction to research design and causality, with
     code in R, Stata and Python.
+
+## Experimentation and A/B testing
+
+- 📝 [**How Not To Run an A/B Test** by Evan
+  Miller](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+  - A concise, widely-cited explanation of why peeking at running
+    experiments inflates false positives, and how to size and stop tests
+    correctly.
+- 🎓 [**A/B Testing at Scale (Tutorial)** by the Experimentation
+  Platform
+  (exp-platform.com)](https://exp-platform.com/2017abtestingtutorial/)
+  - Tutorial slides and video lectures on running trustworthy controlled
+    experiments at scale.
+- 📚 [**Trustworthy Online Controlled Experiments: Chapter 1** by Ron
+  Kohavi, Diane Tang and Ya
+  Xu](https://experimentguide.com/wp-content/uploads/TrustworthyOnlineControlledExperiments_PracticalGuideToABTesting_Chapter1.pdf)
+  - The freely released opening chapter of the canonical book on A/B
+    testing.
+- 💡 [**Evan’s Awesome A/B Tools** by Evan
+  Miller](https://www.evanmiller.org/ab-testing/)
+  - Free in-browser statistical calculators for planning and analysing
+    A/B tests.
 
 ## Spatial analysis
 
@@ -817,7 +996,7 @@ broken link, please file an issue or submit a pull request.
 
 ## Special Topics
 
-- 🎮 [**Structural Equation Modelling** by Erin M.
+- ▶️ [**Structural Equation Modelling** by Erin M.
   Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   - A video playlist introducing structural equation modelling.
 - 📝 [**PyTorch Tutorials and Recipes** by
