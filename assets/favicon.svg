@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Free Data Science">
+  <rect width="32" height="32" rx="6" fill="#000000"/>
+  <rect x="7" y="18" width="5" height="8" rx="1" fill="#ffffff"/>
+  <rect x="14" y="13" width="5" height="13" rx="1" fill="#ffffff"/>
+  <rect x="21" y="8" width="5" height="18" rx="1" fill="#ffffff"/>
+</svg>

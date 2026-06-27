@@ -2,8 +2,24 @@ title: Free data science resources
 description: >-
   A curated, thematically-arranged collection of high-quality, free data
   science learning resources that don't require readers to sign up.
+author: Alastair Rushworth
+lang: en-GB
 theme: jekyll-theme-cayman
 url: https://alastairrushworth.com
 baseurl: /free-data-science
+
+# Used by jekyll-seo-tag for JSON-LD publisher logo
+logo: /assets/favicon-512.png
+
+# Default Open Graph / Twitter share image for every page
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
+
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-default-layout

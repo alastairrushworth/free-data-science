@@ -1,31 +1,68 @@
 name: check-links
 
+# Link-rot on a curated list happens independently of code changes, so the
+# scheduled run is the primary check: it reports broken links by opening (and
+# refreshing) a tracking issue rather than failing a build. Pull requests that
+# touch the list are still gated so new dead links are caught before merge.
 on:
-  push:
-    branches: [master, main]
-  pull_request:
-    branches: [master, main]
   schedule:
-    # Every Monday at 06:00 UTC
+    # Mondays at 06:00 UTC
     - cron: "0 6 * * 1"
   workflow_dispatch:
+  pull_request:
+    paths:
+      - "README.md"
+      - "lychee.toml"
+      - ".github/workflows/check-links.yaml"
+
+permissions:
+  contents: read
+  issues: write
+
+# Don't pile up scheduled runs; let a newer run supersede an in-flight one.
+concurrency:
+  group: check-links-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  check-links:
+  link-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: r-lib/actions/setup-r@v2
+      # Persist lychee's response cache between runs to cut requests and flakiness.
+      - name: Restore lychee cache
+        uses: actions/cache@v4
         with:
-          use-public-rspm: true
+          path: .lycheecache
+          key: lychee-${{ github.run_id }}
+          restore-keys: lychee-
 
-      - name: Install dependencies
-        run: install.packages(c("testthat", "httr2", "stringr"))
-        shell: Rscript {0}
-
-      - name: Check README links
-        run: testthat::test_file("tests/testthat/test_broken.R", stop_on_failure = TRUE)
-        shell: Rscript {0}
+      - name: Check links in README
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: "--config ./lychee.toml ./README.md"
+          output: ./lychee/out.md
+          format: markdown
+          fail: false # never hard-fail the action; outcome is handled below
         env:
-          NOT_CRAN: "true"
+          # Authenticated requests avoid GitHub's aggressive anon rate limits
+          # (the list contains many github.com links).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Scheduled / manual runs: surface rot as a tracking issue, don't fail.
+      - name: Open or update tracking issue
+        if: ${{ steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request' }}
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 Broken links detected in README"
+          content-filepath: ./lychee/out.md
+          labels: broken-links, automated
+
+      # Pull requests: fail so contributors fix dead links before merge.
+      - name: Fail PR on broken links
+        if: ${{ steps.lychee.outputs.exit_code != 0 && github.event_name == 'pull_request' }}
+        run: |
+          echo "::error::lychee found broken links — see the job summary for details."
+          exit 1

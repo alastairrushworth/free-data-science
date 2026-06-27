@@ -3,12 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }}</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
+
+    <!-- Favicons & app icons -->
+    <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/assets/site.webmanifest' | relative_url }}">
+    <meta name="theme-color" content="#000000">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    <!-- SEO: title, meta description, canonical, Open Graph, Twitter cards, JSON-LD -->
+    {% seo %}
   </head>
   <body>
     <nav class="topbar">
@@ -103,8 +112,9 @@
         searchClear.hidden = false;
 
         // Filter top-level list items (resources). Skip nested li (descriptions).
+        const isTopItem = li => !li.parentElement.closest('li');
         const allItems = Array.from(document.querySelectorAll('.content li'));
-        const topItems = allItems.filter(li => !li.parentElement.closest('li'));
+        const topItems = allItems.filter(isTopItem);
 
         topItems.forEach(li => {
           li.hidden = !li.textContent.toLowerCase().includes(q);
@@ -116,7 +126,7 @@
           let hasVisible = false;
           while (el && !['H2', 'H3'].includes(el.tagName)) {
             if (el.tagName === 'UL') {
-              if (Array.from(el.querySelectorAll('li')).some(li => !li.hidden)) hasVisible = true;
+              if (Array.from(el.querySelectorAll('li')).some(li => isTopItem(li) && !li.hidden)) hasVisible = true;
             }
             el = el.nextElementSibling;
           }
@@ -129,7 +139,7 @@
           let hasVisible = false;
           while (el && el.tagName !== 'H2') {
             if (el.tagName === 'H3' && !el.hidden) { hasVisible = true; break; }
-            if (el.tagName === 'UL' && Array.from(el.querySelectorAll('li')).some(li => !li.hidden)) { hasVisible = true; break; }
+            if (el.tagName === 'UL' && Array.from(el.querySelectorAll('li')).some(li => isTopItem(li) && !li.hidden)) { hasVisible = true; break; }
             el = el ? el.nextElementSibling : null;
           }
           h2.hidden = !hasVisible;

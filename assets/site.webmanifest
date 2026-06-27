@@ -1,0 +1,12 @@
+{
+  "name": "Free Data Science",
+  "short_name": "Free DS",
+  "description": "A curated collection of free, high-quality data science learning resources that don't require readers to sign up.",
+  "icons": [
+    { "src": "favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
