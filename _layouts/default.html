@@ -12,20 +12,150 @@
   </head>
   <body>
     <nav class="topbar">
-      <div class="wrap">
-        <a class="ghlink" href="https://github.com/alastairrushworth/free-data-science">View on GitHub &#8599;</a>
+      <div class="topbar-inner">
+        <span class="site-name">Free Data Science</span>
+        <div class="topbar-right">
+          <div class="search-wrap">
+            <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M13.5 13.5L17 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+            <input id="search" type="search" placeholder="Search resources…" autocomplete="off" spellcheck="false">
+            <kbd id="search-clear" class="search-clear" aria-label="Clear search">esc</kbd>
+          </div>
+          <a class="ghlink" href="https://github.com/alastairrushworth/free-data-science">GitHub &#8599;</a>
+        </div>
       </div>
     </nav>
-    <main class="content">
-      <div class="wrap">
+
+    <div class="page-layout">
+      <aside class="toc-sidebar" id="toc-sidebar">
+        <div class="toc-inner">
+          <p class="toc-label">Contents</p>
+          <nav id="toc"></nav>
+        </div>
+      </aside>
+
+      <main class="content" id="main-content">
         {{ content }}
-      </div>
-    </main>
+        <div id="no-results" class="no-results" hidden>
+          No resources matched your search.
+        </div>
+      </main>
+    </div>
+
     <footer class="site-footer">
-      <div class="wrap">
+      <div class="footer-inner">
         Curated free data science resources &middot; Found a mistake or broken link?
         <a href="https://github.com/alastairrushworth/free-data-science/issues">Open an issue</a>.
       </div>
     </footer>
+
+    <script>
+      // ── TOC ──────────────────────────────────────────────────────────────────
+      const toc = document.getElementById('toc');
+      const headings = Array.from(document.querySelectorAll('.content h2, .content h3'));
+
+      headings.forEach(h => {
+        if (!h.id) {
+          h.id = h.textContent.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        }
+        const a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = h.textContent;
+        a.className = h.tagName === 'H2' ? 'toc-h2' : 'toc-h3';
+        toc.appendChild(a);
+      });
+
+      // Highlight active heading as user scrolls
+      let activeLink = null;
+      const io = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          const link = toc.querySelector(`a[href="#${entry.target.id}"]`);
+          if (!link) return;
+          if (entry.isIntersecting) {
+            if (activeLink) activeLink.classList.remove('active');
+            activeLink = link;
+            link.classList.add('active');
+          }
+        });
+      }, { rootMargin: '-56px 0px -70% 0px', threshold: 0 });
+      headings.forEach(h => io.observe(h));
+
+      // ── Search ───────────────────────────────────────────────────────────────
+      const searchInput = document.getElementById('search');
+      const searchClear = document.getElementById('search-clear');
+      const noResults = document.getElementById('no-results');
+
+      function runSearch(q) {
+        q = q.trim().toLowerCase();
+
+        if (!q) {
+          // Reset everything
+          document.querySelectorAll('.content li, .content h1, .content h2, .content h3, .content p, .content ul, .content hr').forEach(el => {
+            el.hidden = false;
+          });
+          searchClear.hidden = true;
+          noResults.hidden = true;
+          return;
+        }
+
+        searchClear.hidden = false;
+
+        // Filter top-level list items (resources). Skip nested li (descriptions).
+        const allItems = Array.from(document.querySelectorAll('.content li'));
+        const topItems = allItems.filter(li => !li.parentElement.closest('li'));
+
+        topItems.forEach(li => {
+          li.hidden = !li.textContent.toLowerCase().includes(q);
+        });
+
+        // Show/hide h3 sections based on visible children
+        document.querySelectorAll('.content h3').forEach(h3 => {
+          let el = h3.nextElementSibling;
+          let hasVisible = false;
+          while (el && !['H2', 'H3'].includes(el.tagName)) {
+            if (el.tagName === 'UL') {
+              if (Array.from(el.querySelectorAll('li')).some(li => !li.hidden)) hasVisible = true;
+            }
+            el = el.nextElementSibling;
+          }
+          h3.hidden = !hasVisible;
+        });
+
+        // Show/hide h2 sections based on visible children
+        document.querySelectorAll('.content h2').forEach(h2 => {
+          let el = h2.nextElementSibling;
+          let hasVisible = false;
+          while (el && el.tagName !== 'H2') {
+            if (el.tagName === 'H3' && !el.hidden) { hasVisible = true; break; }
+            if (el.tagName === 'UL' && Array.from(el.querySelectorAll('li')).some(li => !li.hidden)) { hasVisible = true; break; }
+            el = el ? el.nextElementSibling : null;
+          }
+          h2.hidden = !hasVisible;
+        });
+
+        // Check if anything is visible at all
+        const anyVisible = topItems.some(li => !li.hidden);
+        noResults.hidden = anyVisible;
+      }
+
+      searchInput.addEventListener('input', e => runSearch(e.target.value));
+
+      searchInput.addEventListener('keydown', e => {
+        if (e.key === 'Escape') { searchInput.value = ''; runSearch(''); searchInput.blur(); }
+      });
+
+      searchClear.addEventListener('click', () => { searchInput.value = ''; runSearch(''); searchInput.focus(); });
+      searchClear.hidden = true;
+
+      // Keyboard shortcut: "/" focuses search
+      document.addEventListener('keydown', e => {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+          e.preventDefault();
+          searchInput.focus();
+        }
+      });
+    </script>
   </body>
 </html>
