@@ -10,8 +10,3 @@ LazyData: true
 URL: https://github.com/alastairrushworth/free-data-science/
 BugReports: https://github.com/alastairrushworth/free-data-science/issues
 RoxygenNote: 7.3.2
-Suggests:
-    testthat (>= 3.0.0),
-    httr2,
-    stringr
-Config/testthat/edition: 3
