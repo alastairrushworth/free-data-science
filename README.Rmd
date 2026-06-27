@@ -114,6 +114,14 @@ __Key to resource types__
   + A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 
 
+### Polars
+
++ `r emo::ji('memo')` [__Polars User Guide__ by the Polars team](https://docs.pola.rs/user-guide/)
+  + The official, example-driven guide to Polars' expressions, contexts and lazy execution.
++ `r emo::ji('books')` [__Modern Polars__ by Kevin Heavey](https://kevinheavey.github.io/modern-polars/)
+  + A side-by-side comparison of idiomatic Polars and pandas, with commentary on API design and performance.
+
+
 ### Shell
 
 + `r emo::ji('college')` [__Learn Shell__ by Ron Reiter](https://www.learnshell.org/).
@@ -141,6 +149,13 @@ __Key to resource types__
   + PDF cheat-sheet for standard regular expression syntax.
 + `r emo::ji('bulb')`[__Regular Expressions Cheat Sheet__ by Dave Child](https://cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
   + PDF cheat-sheet for standard regular expression syntax.
+
+### Web scraping
+
++ `r emo::ji('books')` [__Automate the Boring Stuff with Python (3e): Web Scraping__ by Al Sweigart](https://automatetheboringstuff.com/3e/chapter13.html)
+  + A beginner-friendly, project-driven walkthrough of downloading and parsing web pages with requests, Beautiful Soup, Selenium and Playwright.
++ `r emo::ji('books')` [__R for Data Science (2e): Web scraping__ by Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund](https://r4ds.hadley.nz/webscraping)
+  + A clear introduction to extracting data from HTML pages in R with the rvest package, including selectors and scraping ethics.
 
 ### Git
 
@@ -182,6 +197,13 @@ __Key to resource types__
 + `r emo::ji('college')` [__LearnSQLOnline__ by Ron Reiter](https://www.learnsqlonline.org/)
   + Browser-based interactive tutorial covering SQL fundamentals.
 
+### DuckDB
+
++ `r emo::ji('memo')` [__DuckDB Documentation__ by the DuckDB team](https://duckdb.org/docs/)
+  + The official documentation hub covering installation, SQL and client APIs across many languages.
++ `r emo::ji('memo')` [__SQL Introduction__ by the DuckDB team](https://duckdb.org/docs/stable/sql/introduction)
+  + A hands-on tour of core SQL operations -- tables, queries, joins and aggregates -- using DuckDB.
+
 ### Docker
 
 + `r emo::ji('memo')` [__An Introduction to Docker for R Users__ by Colin Fay](https://colinfay.me/docker-r-reproducibility/)
@@ -197,10 +219,29 @@ __Key to resource types__
   + The comprehensive reference for authoring reproducible documents and reports with R Markdown.
 + `r emo::ji('books')` [__bookdown: Authoring Books and Technical Documents with R Markdown__ by Yihui Xie](https://bookdown.org/yihui/bookdown/)
   + Guide to writing books and long-form technical documents with R Markdown.
++ `r emo::ji('memo')` [__Get Started with Quarto__ by Posit](https://quarto.org/docs/get-started/)
+  + The official starting point for authoring and publishing reproducible documents, reports and slides with Quarto.
++ `r emo::ji('books')` [__R for Data Science (2e): Quarto__ by Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund](https://r4ds.hadley.nz/quarto.html)
+  + A concise, practical chapter on weaving code, results and prose into a single reproducible document.
++ `r emo::ji('books')` [__Quarto for Scientists__ by Nicholas Tierney](https://qmd4sci.njtierney.com/)
+  + A gentle, scientist-focused guide to producing reproducible reports, papers and slides with Quarto.
 + `r emo::ji('books')` [__The Not So Short Introduction to LaTeX 2ε__ by Tobias Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
   + A concise and practical introduction to typesetting documents with LaTeX.
 + `r emo::ji('books')` [__LaTeX for Beginners__ by UoE IS Services](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf)
   + Step-by-step primer for getting started with LaTeX.
+
+## Data engineering and pipelines
+
++ `r emo::ji('college')` [__Data Engineering Zoomcamp__ by DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+  + A free, end-to-end course building production-ready pipelines with dbt, orchestration, BigQuery, Spark and Kafka.
++ `r emo::ji('books')` [__dbt Documentation__ by dbt Labs](https://docs.getdbt.com/)
+  + The official documentation for building, testing and deploying analytics transformations with dbt.
++ `r emo::ji('memo')` [__Apache Airflow Tutorials__ by the Apache Software Foundation](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html)
+  + The official hands-on guides for authoring your first workflows and DAGs in Apache Airflow.
++ `r emo::ji('books')` [__The {targets} R Package User Manual__ by Will Landau](https://books.ropensci.org/targets/)
+  + A thorough guide to building reproducible, dependency-aware analysis pipelines in R.
++ `r emo::ji('memo')` [__minimal make: A minimal tutorial on make__ by Karl Broman](https://kbroman.org/minimal_make/)
+  + A short, approachable tutorial on using GNU Make to automate reproducible research workflows.
 
 ## Machine Learning
 
@@ -234,7 +275,7 @@ __Key to resource types__
   + Variety to beginners guides to solving common ML tasks with R's tidymodels.
 + `r emo::ji('college')` [__Supervised Machine Learning Case Studies in R__ by Julia Silge.](https://supervised-ml-course.netlify.app/)
   + Easy-to-follow in-browser beginner's guide to using R's tidymodels for practical ML.
-+ `r emo::ji('memo')` / `r emo::ji('play')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
++ `r emo::ji('memo')` / `r emo::ji('play button')` [__Introduction to machine learning with scikit-learn__ by Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
   + Bite size study videos and python notebooks by Justin Markham's Data School.
 + `r emo::ji('memo')` [__scikit-learn User Guide__ by scikit-learn](https://scikit-learn.org/stable/user_guide.html)
   + sci-kit learn's documentation are very thorough and a great standalone learning resource!
@@ -254,6 +295,22 @@ __Key to resource types__
 + `r emo::ji('college')` [__MIT 6.S191: Introduction to Deep Learning__ by Alexander Amini and Ava Soleimany](http://introtodeeplearning.com/)
   + MIT's introductory deep learning course with open lectures, slides and software labs.
 
+### Computer vision
+
++ `r emo::ji('college')` [__CS231n: Deep Learning for Computer Vision__ by Stanford University](https://cs231n.github.io/)
+  + Stanford's computer vision course, with freely available lecture notes, Python primers and assignments.
++ `r emo::ji('memo')` [__OpenCV Tutorials__ by the OpenCV team](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+  + Official tutorials spanning image processing, object detection, feature matching and the deep neural network module.
+
+### Reinforcement learning
+
++ `r emo::ji('books')` [__Reinforcement Learning: An Introduction (2nd ed.)__ by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
+  + The standard introductory textbook on reinforcement learning, offered as a complete free PDF by its authors.
++ `r emo::ji('play button')` [__Introduction to Reinforcement Learning__ by David Silver, DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+  + A ten-lecture course covering reinforcement learning fundamentals through to function approximation and policy gradients.
++ `r emo::ji('memo')` [__Spinning Up in Deep RL__ by OpenAI](https://spinningup.openai.com/en/latest/)
+  + An educational resource on deep RL with explanatory theory, a curated paper list and documented reference implementations.
+
 ### Large language models and generative AI
 
 + `r emo::ji('college')` [__Hugging Face LLM Course__ by Hugging Face](https://huggingface.co/learn/llm-course)
@@ -266,6 +323,16 @@ __Key to resource types__
   + Stanford's NLP with deep learning course, with freely available slides, assignments and lecture videos.
 + `r emo::ji('memo')` [__Prompt Engineering Guide__ by DAIR.AI](https://www.promptingguide.ai/)
   + Reference guide to prompting techniques, applications and risks for large language models.
++ `r emo::ji('memo')` [__Building Effective Agents__ by Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+  + A practical breakdown of agent and workflow patterns, with guidance on when added complexity is worth it.
++ `r emo::ji('memo')` [__Claude Cookbooks__ by Anthropic](https://github.com/anthropics/claude-cookbooks)
+  + Runnable notebooks covering retrieval, tool use, agents, evaluations and multimodal work with Claude.
++ `r emo::ji('college')` [__Anthropic Courses__ by Anthropic](https://github.com/anthropics/courses)
+  + Sequential courses on API fundamentals, prompt engineering, prompt evaluations and tool use.
++ `r emo::ji('memo')` [__Patterns for Building LLM-based Systems & Products__ by Eugene Yan](https://eugeneyan.com/writing/llm-patterns/)
+  + A survey of practical patterns for production LLM systems, from evaluation and retrieval to guardrails and feedback.
++ `r emo::ji('memo')` [__Your AI Product Needs Evals__ by Hamel Husain](https://hamel.dev/blog/posts/evals/)
+  + A grounded framework for evaluating LLM products, built around unit tests, human and model review, and A/B testing.
 
 
 ## Data Science Practice
@@ -375,7 +442,7 @@ __Key to resource types__
 
 ## Developing interactive applications
 
-+ `r emo::ji('play')` / `r emo::ji('college')` [__Learn Shiny__ by RStudio](https://shiny.rstudio.com/tutorial/)
++ `r emo::ji('play button')` / `r emo::ji('college')` [__Learn Shiny__ by RStudio](https://shiny.rstudio.com/tutorial/)
   + Official tutorial for building interactive web apps in R with Shiny.
 + `r emo::ji('books')` [__A gRadual intRoduction to Shiny__ by Ted Laderas and Jessica Minnier](https://laderast.github.io/gradual_shiny/)
   + A gentle, step-by-step introduction to building Shiny apps.
@@ -401,6 +468,14 @@ __Key to resource types__
   + A practical, hands-on introduction to data visualisation principles using R and ggplot2.
 + `r emo::ji('memo')` [__3D Mapping and Visualization with R and Rayshader__ by Tyler Morgan-Wall](https://github.com/tylermorganwall/MusaMasterclass)
   + Masterclass materials on 3D mapping and visualisation in R with rayshader.
++ `r emo::ji('books')` [__Scientific Visualization: Python + Matplotlib__ by Nicolas P. Rougier](https://github.com/rougier/scientific-visualization-book)
+  + An open-access book on producing high-quality scientific figures with matplotlib.
++ `r emo::ji('memo')` [__seaborn: statistical data visualization__ by Michael Waskom](https://seaborn.pydata.org/tutorial.html)
+  + The official tutorial for seaborn, covering statistical plotting built on matplotlib.
++ `r emo::ji('memo')` [__The Python Graph Gallery__ by Yan Holtz](https://python-graph-gallery.com/)
+  + Hundreds of Python chart examples with reproducible code across matplotlib, seaborn, pandas and plotly.
++ `r emo::ji('memo')` [__Plotly Open Source Graphing Library for Python__ by Plotly](https://plotly.com/python/)
+  + Official documentation for Plotly's free, open-source library for interactive charts.
 
 
 
@@ -421,6 +496,20 @@ __Key to resource types__
   + A curated list of resources for learning about and using GAMs in R.
 
 
+
+
+## Mathematics
+
++ `r emo::ji('play button')` [__Essence of Linear Algebra__ by Grant Sanderson (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  + A visual, intuition-first video series on vectors, transformations, determinants and eigenvectors.
++ `r emo::ji('play button')` [__Essence of Calculus__ by Grant Sanderson (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  + A visual series building the central ideas of calculus from derivatives to integrals.
++ `r emo::ji('college')` [__Linear Algebra (18.06)__ by Gilbert Strang, MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+  + Strang's classic full-semester course with complete video lectures, problem sets and exams.
++ `r emo::ji('books')` [__Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares__ by Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
+  + A free textbook on the linear algebra most relevant to data science, with an emphasis on least squares.
++ `r emo::ji('play button')` [__Statistics 110: Probability__ by Joe Blitzstein, Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  + A full set of Harvard lectures teaching probability from first principles.
 
 
 ## Statistics
@@ -455,6 +544,18 @@ __Key to resource types__
   + An open-source, Python-based introduction to causal inference, from fundamentals to ML methods.
 + `r emo::ji('books')` [__The Effect: An Introduction to Research Design and Causality__ by Nick Huntington-Klein](https://theeffectbook.net/)
   + An accessible introduction to research design and causality, with code in R, Stata and Python.
+
+
+## Experimentation and A/B testing
+
++ `r emo::ji('memo')` [__How Not To Run an A/B Test__ by Evan Miller](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+  + A concise, widely-cited explanation of why peeking at running experiments inflates false positives, and how to size and stop tests correctly.
++ `r emo::ji('college')` [__A/B Testing at Scale (Tutorial)__ by the Experimentation Platform (exp-platform.com)](https://exp-platform.com/2017abtestingtutorial/)
+  + Tutorial slides and video lectures on running trustworthy controlled experiments at scale.
++ `r emo::ji('books')` [__Trustworthy Online Controlled Experiments: Chapter 1__ by Ron Kohavi, Diane Tang and Ya Xu](https://experimentguide.com/wp-content/uploads/TrustworthyOnlineControlledExperiments_PracticalGuideToABTesting_Chapter1.pdf)
+  + The freely released opening chapter of the canonical book on A/B testing.
++ `r emo::ji('bulb')` [__Evan's Awesome A/B Tools__ by Evan Miller](https://www.evanmiller.org/ab-testing/)
+  + Free in-browser statistical calculators for planning and analysing A/B tests.
 
 
 ## Spatial analysis
@@ -513,7 +614,7 @@ __Key to resource types__
 
 ## Special Topics
 
-+ `r emo::ji('play')` [__Structural Equation Modelling__ by Erin M. Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
++ `r emo::ji('play button')` [__Structural Equation Modelling__ by Erin M. Buchanan](https://www.youtube.com/playlist?list=PLw93TUuxrFAZkJVc5dhgTZpOT7qmTjlT7&app=desktop)
   + A video playlist introducing structural equation modelling.
 + `r emo::ji('memo')` [__PyTorch Tutorials and Recipes__ by PyTorch](https://pytorch.org/tutorials/)
   + Official tutorials and recipes for deep learning with PyTorch.
